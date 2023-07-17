@@ -24,7 +24,7 @@ from transformers import (
 from typing import Optional, Dict
 
 import paths_config
-from model.model_5.s_expression_encoderdecoder import SExpressionEncoderDecoder
+from model.s_expression_encoderdecoder import SExpressionEncoderDecoder
 from pipeline.entity_recognition import EntityRecognizer
 from pipeline import logical_forms
 from pipeline.logical_forms import (

@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer
 
 import paths_config
-from model.model_5.encoderdecoder_trainer import SExpressionEncoderDecoderTrainer
+from model.encoderdecoder_trainer import SExpressionEncoderDecoderTrainer
 from pipeline.entity_recognition import EntityRecognizer
 from pipeline.logical_forms import uri_to_code, MSR, DIM
 from pipeline.odata_executor import ODataExecutor
