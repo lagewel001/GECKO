@@ -1,0 +1,58 @@
+# IDE
+.idea/
+.vs/
+*.pyproj
+*.sln
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv*/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+*.pid
+
+# Unit test / coverage reports
+TestResults/
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+test-output.xml
+
+# Documentation
+docs/build/
+
+# Specific files
+model/*/*/*
+data/*
+*.pk
+*.csv
+*.ttl
+*.trig
+
+# Exceptions
+!data/training_data_questions.csv
+!data/training_data_questions_full.csv
+!data/geolocations.json
+!data/table_themes.json
+!data/thesaurus.pk
+!data/code_list.pk

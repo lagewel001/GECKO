@@ -1,0 +1,1054 @@
+qid;sexp;query
+0;(VALUE (37201 (MSR A019380 (WHERE (DIM TC 1992JJ00) (DIM GC GM0361)))));hoeveel kinderen waren het 3e kind in het gezin in 1992 in Alkmaar
+0;(VALUE (37201 (MSR A019380 (WHERE (DIM TC 1992JJ00) (DIM GC GM0361)))));hoeveel kinderen waren het derde kind in het gezin in 1992 in Alkmaar?
+1;(VALUE (37201 (MSR D000128_8 (WHERE (DIM GC GM1723)))));aantal kinderen geboren in Alphen-Chaam
+1;(VALUE (37201 (MSR D000128_8 (WHERE (DIM GC GM1723)))));geboortes in Alphen-Chaam
+2;(VALUE (37201 (MSR D000128_6 (WHERE (DIM TC 1992JJ00)))));aantal kinderen geboren in 1992
+2;(VALUE (37201 (MSR D000128_6 (WHERE (DIM TC 1992JJ00)))));aantal geboortes in 1992
+2;(VALUE (37201 (MSR D000128_6 (WHERE (DIM TC 1992JJ00)))));hoeveel geborenen 1992
+3;(VALUE (37201 (MSR D000128_6 (WHERE (DIM GC PV29) (DIM TC 2015JJ00)))));kinderen geboren in zeeland 2015
+3;(VALUE (37201 (MSR D000128_6 (WHERE (DIM GC PV29) (DIM TC 2015JJ00)))));hoeveel geboortes in 2015 in zeeland
+4;(VALUE (37201 (MSR 70900 (WHERE (DIM GC GM0060) (DIM TC 2009JJ00)))));40-jarige moeders op Ameland 2009
+5;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2003JJ00)))));geboren meisjes 2003
+5;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2003JJ00)))));aantal meisjes geboren in 2003
+6;(VALUE (37201 (MSR 21100 (WHERE (DIM GC GM0888) (DIM TC 2016JJ00)))));moeders ouder dan 45 in Beek in 2016
+6;(VALUE (37201 (MSR 21100 (WHERE (DIM GC GM0888) (DIM TC 2016JJ00)))));48-jarige moeders in Beek (Limburg) in 2016
+7;(VALUE (37201 (MSR A019381 (WHERE (DIM TC 2016JJ00) (DIM GC PV24)))));geboorte 4e of meer kind in Flevoland 2016
+7;(VALUE (37201 (MSR A019381 (WHERE (DIM TC 2016JJ00) (DIM GC PV24)))));geboortes vierde kind in het gezin Flevoland 2016
+8;(VALUE (37201 (MSR M004931 (WHERE (DIM GC GM0060)))));vruchtbaarheidscijfer ameland
+8;(VALUE (37201 (MSR M004931 (WHERE (DIM GC GM0060)))));gestandaardiseerd vruchtbaarheidscijfer op ameland
+9;(VALUE (37201 (MSR D000128_2 (WHERE (DIM TC 2014JJ00)))));aantal geboren kinderen per inwoner 2014
+9;(VALUE (37201 (MSR D000128_2 (WHERE (DIM TC 2014JJ00)))));relatief aantal geboortes 2014
+10;(VALUE (37201 (MSR 70600 (WHERE (DIM GC GM0739)))));26-jarige moeders in Aarle-Rixtel
+10;(VALUE (37201 (MSR 70600 (WHERE (DIM GC GM0739)))));28-jarige moeders in Aarle Rixtel
+11;(VALUE (37201 (MSR A019379 (WHERE (DIM GC GM0206)))));aantal 2e kinderen in Bemmel
+12;(VALUE (37201 (MSR 1010 (WHERE (DIM TC 1988JJ00)))));geboortes bij ongehuwde moeders in 1988
+13;(VALUE (37201 (MSR D000128_1 (WHERE (DIM GC CR40)))));geboortes in de corop Flevoland
+13;(VALUE (37201 (MSR D000128_1 (WHERE (DIM GC CR40)))));geboren kinderen in Flevoland
+14;(VALUE (37201 (MSR 3000 (WHERE (DIM TC 2018JJ00) (DIM GC GM0889)))));aantal geboren jongens in Beesel 2018
+14;(VALUE (37201 (MSR 3000 (WHERE (DIM TC 2018JJ00) (DIM GC GM0889)))));geboortes jongetjes Beesel in 2018
+15;(VALUE (37201 (MSR A019380 (WHERE (DIM GC GM0142)))));aantal kinderen 3e kind in het gezin in Ambt Delden
+15;(VALUE (37201 (MSR A019380 (WHERE (DIM GC GM0142)))));aantal kinderen derde kind in het gezin in Ambt Delden
+16;(VALUE (37201 (MSR D000128_4 (WHERE (DIM TC 1992JJ00) (DIM GC PV31)))));aantal geboortes in Limburg in 1992
+16;(VALUE (37201 (MSR D000128_4 (WHERE (DIM TC 1992JJ00) (DIM GC PV31)))));hoeveel kinderen zijn er in 1992 in Limburg geboren
+17;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2007JJ00) (DIM GC PV31)))));hoeveel meisjes zijn er in Limburg geboren in 2007
+17;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2007JJ00) (DIM GC PV31)))));aantal geboortes meisjes 2007 Limburg
+18;(VALUE (37201 (MSR M004931 (WHERE (DIM GC GM0480) (DIM TC 1996JJ00)))));vruchtbaarheidscijfer in Ter Aar 1996
+18;(VALUE (37201 (MSR M004931 (WHERE (DIM GC GM0480) (DIM TC 1996JJ00)))));gestandaardiseerd vruchtbaarheidscijfer in 1996 in Ter Aar
+19;(VALUE (37201 (MSR 70700 (WHERE (DIM TC 2010JJ00) (DIM GC LD02)))));aantal 30 jarige moeders in oost nederland in 2010
+19;(VALUE (37201 (MSR 70700 (WHERE (DIM TC 2010JJ00) (DIM GC LD02)))));aantal moeders tussen de 30 en 35 in oost-nederland 2010
+20;(VALUE (37296ned (MSR A008188_1 (WHERE (DIM TC 2010JJ00)))));Overige Westerse migranten in 2010
+21;(VALUE (37296ned (MSR D000110_2 (WHERE (DIM TC 1984JJ00)))));demografische druk in 1984
+21;(VALUE (37296ned (MSR D000110_2 (WHERE (DIM TC 1984JJ00)))));wat was de totale demografische druk in 1984
+22;(VALUE (37296ned (MSR A008187_3 (WHERE (DIM TC 2005JJ00)))));2e generatie niet westerse migranten in 2005
+23;(VALUE (37296ned (MSR 70501_1 (WHERE (DIM TC 1973JJ00)))));aantal twintigers in 1973
+23;(VALUE (37296ned (MSR 70501_1 (WHERE (DIM TC 1973JJ00)))));hoeveel dertigers waren er in 1973
+24;(VALUE (37296ned (MSR H008766_2 (WHERE (DIM TC 2019JJ00)))));hoeveel eerste generatie turken waren er in 2019
+25;(VALUE (37296ned (MSR 1050 (WHERE (DIM TC 2004JJ00)))));aantal verweduwde personen in 2004
+25;(VALUE (37296ned (MSR 1050 (WHERE (DIM TC 2004JJ00)))));hoeveel weduwen waren er in 2004
+26;(VALUE (37296ned (MSR H008766_2 (WHERE (DIM TC 2008JJ00)))));hoeveel 1e generatie turken in 2008
+26;(VALUE (37296ned (MSR H008766_2 (WHERE (DIM TC 2008JJ00)))));aantal eerste generatie turken in 2008
+27;(VALUE (37296ned (MSR 4000_2 (WHERE (DIM TC 2016JJ00)))));wat was de gemiddelde leeftijd van vrouwen in 2016
+27;(VALUE (37296ned (MSR 4000_2 (WHERE (DIM TC 2016JJ00)))));leeftijd vrouwen 2016
+28;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 2014JJ00)))));gemiddelde huishoudensgrootte in 2014
+28;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 2014JJ00)))));hoe groot was een gezin in 2014
+29;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 2015JJ00)))));grootte van huishouden in 2015
+29;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 2015JJ00)))));hoeveel personen per huishouden in 2015
+30;(VALUE (37296ned (MSR 53950_2 (WHERE (DIM TC 2018JJ00)))));hoeveel bejaarden in 2018
+30;(VALUE (37296ned (MSR 53950_2 (WHERE (DIM TC 2018JJ00)))));welk percentage was senioren in 2018
+30;(VALUE (37296ned (MSR 53950_2 (WHERE (DIM TC 2018JJ00)))));relatief aantal 65 plussers in 2018
+31;(VALUE (37296ned (MSR M000244_1 (WHERE (DIM TC 2008JJ00)))));migratie saldo 2008
+31;(VALUE (37296ned (MSR M000244_1 (WHERE (DIM TC 2008JJ00)))));migratiesaldo 2008
+32;(VALUE (37296ned (MSR M000100 (WHERE (DIM TC 1995JJ00)))));bevolkingsdichtheid 1995
+32;(VALUE (37296ned (MSR M000100 (WHERE (DIM TC 1995JJ00)))));wat was de dichtheid van de bevolking in 1995
+33;(VALUE (37296ned (MSR M000244_2 (WHERE (DIM TC 2006JJ00)))));relatief migratiesaldo in 2006
+33;(VALUE (37296ned (MSR M000244_2 (WHERE (DIM TC 2006JJ00)))));relatief migratie saldo 2006
+34;(VALUE (37296ned (MSR M001497 (WHERE (DIM TC 2016JJ00)))));aantal overige correcties in 2016
+35;(VALUE (37296ned (MSR D000116 (WHERE (DIM TC 2019JJ00)))));grijze druk op de bevolking in 2019
+36;(VALUE (37296ned (MSR M000167 (WHERE (DIM TC 1976JJ00)))));aantal immigranten in 1976
+36;(VALUE (37296ned (MSR M000167 (WHERE (DIM TC 1976JJ00)))));hoeveel immigranten waren er in 1976
+37;(VALUE (37296ned (MSR 1016010 (WHERE (DIM TC 1976JJ00)))));aantal huishoudens van meerdere personen in 1976
+38;(VALUE (37296ned (MSR 41400_1 (WHERE (DIM TC 2020JJ00)))));aantal jongeren 2020
+38;(VALUE (37296ned (MSR 41400_1 (WHERE (DIM TC 2020JJ00)))));hoeveel tieners in 2020
+38;(VALUE (37296ned (MSR 41400_1 (WHERE (DIM TC 2020JJ00)))));personen jonger dan 20 in 2020
+39;(VALUE (37296ned (MSR M000101_2 (WHERE (DIM TC 1988JJ00)))));wat was de totale bevolkingsgroei in 1988
+39;(VALUE (37296ned (MSR M000101_2 (WHERE (DIM TC 1988JJ00)))));bevolkingsgroei 1988
+40;(VALUE (37296ned (MSR M000100 (WHERE (DIM TC 1994JJ00)))));bevolkingsdichtheid 1994
+40;(VALUE (37296ned (MSR M000100 (WHERE (DIM TC 1994JJ00)))));wat was de bevolkingsdichtheid in 1994
+41;(VALUE (37296ned (MSR A008188_1 (WHERE (DIM TC 2003JJ00)))));overig westerse migranten in 2003
+42;(VALUE (37296ned (MSR H007936_1 (WHERE (DIM TC 2010JJ00)))));migranten uit spanje in 2010
+42;(VALUE (37296ned (MSR H007936_1 (WHERE (DIM TC 2010JJ00)))));migranten uit italië in 2010
+42;(VALUE (37296ned (MSR H007936_1 (WHERE (DIM TC 2010JJ00)))));hoeveel migranten uit griekenland in 2010
+42;(VALUE (37296ned (MSR H007936_1 (WHERE (DIM TC 2010JJ00)))));hoeveel migranten uit portugal in 2010
+43;(VALUE (37296ned (MSR M000244_2 (WHERE (DIM TC 1986JJ00)))));relatief migratiesaldo in 1986
+43;(VALUE (37296ned (MSR M000244_2 (WHERE (DIM TC 1986JJ00)))));relatief migratie saldo 1986
+44;(VALUE (37296ned (MSR H008766_1 (WHERE (DIM TC 2010JJ00)))));aantal turkse migranten in 2010
+45;(VALUE (37296ned (MSR 53950_1 (WHERE (DIM TC 1980JJ00)))));aantal 65-plussers in 1980
+45;(VALUE (37296ned (MSR 53950_1 (WHERE (DIM TC 1980JJ00)))));aantal 70-jarigen in 1980
+46;(VALUE (37296ned (MSR 2013357_2 (WHERE (DIM TC 2020JJ00)))));hoeveel 2e generatie migranten in 2020
+46;(VALUE (37296ned (MSR 2013357_2 (WHERE (DIM TC 2020JJ00)))));hoeveel tweede generatie migranten waren er in 2020
+47;(VALUE (37296ned (MSR T001038_2 (WHERE (DIM TC 1966JJ00)))));totale bevolking in 1966
+47;(VALUE (37296ned (MSR T001038_2 (WHERE (DIM TC 1966JJ00)))));grootte van de bevolking in 1966
+48;(VALUE (37296ned (MSR A008188_3 (WHERE (DIM TC 2020JJ00)))));aantal overig westerse migranten van de 2e generatie in 2020
+49;(VALUE (37296ned (MSR A008187_1 (WHERE (DIM TC 2018JJ00)))));aantal overig niet westerse migranten in 2018
+49;(VALUE (37296ned (MSR A008187_1 (WHERE (DIM TC 2018JJ00)))));aantal overig niet-westerse migranten in 2018
+50;(VALUE (37422ned (MSR 3000_2 (WHERE (DIM TC 1970JJ00)))));aantal geboren jongens ten opzichte van aantal meisjes in 1970
+50;(VALUE (37422ned (MSR 3000_2 (WHERE (DIM TC 1970JJ00)))));verhouding geboortes tussen jongetjes en meisjes 1970
+51;(VALUE (37422ned (MSR D003488_1 (WHERE (DIM TC 1963JJ00)))));hoeveel doodgeboren kinderen na een zwangerschap van 28 weken of meer in 1963
+52;(VALUE (37422ned (MSR 70900 (WHERE (DIM TC 1991JJ00)))));hoeveel 43-jarigen kregen een kind in 1991
+52;(VALUE (37422ned (MSR 70900 (WHERE (DIM TC 1991JJ00)))));hoeveel geboortes waren er bij  moeders van 40 tot 45 jaar in 1991
+53;(VALUE (37422ned (MSR D003482 (WHERE (DIM TC 1960JJ00)))));hoeveel tweelingen met een van elk geslacht zijn er geboren in 1960
+53;(VALUE (37422ned (MSR D003482 (WHERE (DIM TC 1960JJ00)))));hoeveel tweelingen met 1 jongen en 1 meisje zijn er geboren in 1960
+53;(VALUE (37422ned (MSR D003482 (WHERE (DIM TC 1960JJ00)))));jongen meisje tweeling 1996
+54;(VALUE (37422ned (MSR D003488_1 (WHERE (DIM TC 1987JJ00)))));aantal doodgeboren kinderen na zwangerschap van 28 weken of meer in 1987
+55;(VALUE (37422ned (MSR 41400 (WHERE (DIM TC 1986JJ00)))));aantal tienermoeders in 1986
+55;(VALUE (37422ned (MSR 41400 (WHERE (DIM TC 1986JJ00)))));hoeveel geboortes bij moeders onder de 20 in 1986
+56;(VALUE (37422ned (MSR 70700 (WHERE (DIM TC 1975JJ00)))));hoeveel vrouwen tussen de 30 en 35 zijn bevallen in 1975
+57;(VALUE (37422ned (MSR D000128_6 (WHERE (DIM TC 2005JJ00)))));aantal geboren kinderen in 2005
+57;(VALUE (37422ned (MSR D000128_6 (WHERE (DIM TC 2005JJ00)))));hoeveel kinderen zijn er in 2005 geboren
+58;(VALUE (37422ned (MSR D003488_2 (WHERE (DIM TC 1950JJ00)))));hoeveel kinderen zijn er dood geboren na 28 weken in 1950 relatief gezien
+59;(VALUE (37422ned (MSR D003496 (WHERE (DIM TC 1951JJ00)))));hoeveel vrouwen hebben gemiddeld genomen 3 kinderen in 1951
+60;(VALUE (37422ned (MSR A025238_2 (WHERE (DIM TC 1961JJ00)))));hoeveel meerlingen zijn er in 1961 geboren
+60;(VALUE (37422ned (MSR A025238_2 (WHERE (DIM TC 1961JJ00)))));hoeveel geboortes met meer dan een kind waren er in 1961
+61;(VALUE (37422ned (MSR D000128_8 (WHERE (DIM TC 1964JJ00)))));aantal geboortes in 1964
+62;(VALUE (37422ned (MSR 41400 (WHERE (DIM TC 2005JJ00)))));hoeveel moeders jonger dan 20 waren er in 2005
+63;(VALUE (37422ned (MSR D000128_8 (WHERE (DIM TC 1968JJ00)))));hoeveel kinderen zijn er in 1968 geboren
+64;(VALUE (37422ned (MSR 1020 (WHERE (DIM TC 1997JJ00)))));hoeveel gehuwde vrouwen hebben kinderen gebaard in 1997
+65;(VALUE (37422ned (MSR 70800 (WHERE (DIM TC 2010JJ00)))));hoeveel moeders tussen de 35 en 40 jaar in 2010
+66;(VALUE (37422ned (MSR D003483 (WHERE (DIM TC 1988JJ00)))));hoeveel tweelingen met 2 jongens zijn er geboren in 1988
+66;(VALUE (37422ned (MSR D003483 (WHERE (DIM TC 1988JJ00)))));aantal geboren tweelingen met twee jongens in 1988
+67;(VALUE (37422ned (MSR D000128_8 (WHERE (DIM TC 1996JJ00)))));totaal geboortes in 1996
+68;(VALUE (37422ned (MSR D000128_8 (WHERE (DIM TC 1994JJ00)))));totaal aantal levend geboren kinderen in 1994
+69;(VALUE (37422ned (MSR D000128_6 (WHERE (DIM TC 2019JJ00)))));hoeveel kinderen zijn er levend geboren in 2019
+70;(VALUE (37772ned (MSR 3000_2 (WHERE (DIM TC 1968JJ00)))));hoeveel mannen zijn er in 1968 getrouwd
+70;(VALUE (37772ned (MSR 3000_2 (WHERE (DIM TC 1968JJ00)))));aantal huwende mannen in 1968
+71;(VALUE (37772ned (MSR 1010_6 (WHERE (DIM TC 1952JJ00)))));wat was de gemiddelde leeftijd van eerder ongehuwde vrouwen bij hun huwelijk in 1952
+72;(VALUE (37772ned (MSR 3000_6 (WHERE (DIM TC 1963JJ00)))));welke leeftijd hadden mannen gemiddeld bij huwelijken in 1963
+73;(VALUE (37772ned (MSR 1050_6 (WHERE (DIM TC 1981JJ00)))));hoe oud waren verweduwde vrouwen bij hun huwelijk in 1981
+74;(VALUE (37772ned (MSR 4000_4 (WHERE (DIM TC 1989JJ00)))));hoeveel vrouwen zijn er in 1989 in het huwelijk getreden
+74;(VALUE (37772ned (MSR 4000_4 (WHERE (DIM TC 1989JJ00)))));hoeveel vrouwen zijn er in 1989 getrouwd
+74;(VALUE (37772ned (MSR 4000_4 (WHERE (DIM TC 1989JJ00)))));aantal huwelijken vrouwen 1989
+75;(VALUE (37772ned (MSR 1010_4 (WHERE (DIM TC 1964JJ00)))));hoeveel ongehuwde vrouwen zijn er in 1964 getrouwd
+76;(VALUE (37772ned (MSR 1050_1 (WHERE (DIM TC 1985JJ00)))));hoeveel verweduwde mannen zijn erin 1985 getrouwd
+76;(VALUE (37772ned (MSR 1050_1 (WHERE (DIM TC 1985JJ00)))));huwelijken van weduwnaren in 1985
+77;(VALUE (37772ned (MSR D003634_2 (WHERE (DIM TC 2008JJ00)))));aantal vrouwen met minimaal 2 huwelijken in 2008
+77;(VALUE (37772ned (MSR D003634_2 (WHERE (DIM TC 2008JJ00)))));hoeveel vrouwen in 2008 zijn minimaal 2 keer getrouwd
+78;(VALUE (37772ned (MSR T001221_1 (WHERE (DIM TC 1958JJ00)))));hoeveel huwelijken zijn er voltrokken in 1958
+78;(VALUE (37772ned (MSR T001221_1 (WHERE (DIM TC 1958JJ00)))));totaal huwelijken 1958
+79;(VALUE (37772ned (MSR 4000_2 (WHERE (DIM TC 1961JJ00)))));hoeveel vrouwen zijn erin 1961 getrouwd
+79;(VALUE (37772ned (MSR 4000_2 (WHERE (DIM TC 1961JJ00)))));totaal aantal huwelijken vrouwen in 1961
+80;(VALUE (37772ned (MSR 1010_2 (WHERE (DIM TC 1993JJ00)))));hoeveel ongehuwde vrouwen zijn er in 1993 getrouwd
+81;(VALUE (37772ned (MSR D003634_1 (WHERE (DIM TC 2016JJ00)))));hoeveel mannen in 2016 waren minimaal 2 keer getrouwd
+82;(VALUE (37772ned (MSR 3000_6 (WHERE (DIM TC 2017JJ00)))));wat was de gemiddelde leeftijd van mannen huwelijkssluitingen in 2017
+83;(VALUE (37772ned (MSR 1010_1 (WHERE (DIM TC 1997JJ00)))));hoeveel eerder ongehuwde mannen zijn er in 1997 getrouwd
+84;(VALUE (37772ned (MSR 3000_6 (WHERE (DIM TC 1957JJ00)))));hoe oud waren mannen bij huwelijken in 1957
+85;(VALUE (37772ned (MSR A028295_1 (WHERE (DIM TC 2015JJ00)))));hoeveel vrouwen zijn er in 2015 getrouwd met een vrouw
+85;(VALUE (37772ned (MSR A028295_1 (WHERE (DIM TC 2015JJ00)))));aantal lesbische huwelijken in 2015
+85;(VALUE (37772ned (MSR A028295_1 (WHERE (DIM TC 2015JJ00)))));aantal huwelijkssluitingen tussen vrouwen in 2015
+86;(VALUE (37772ned (MSR 4000_6 (WHERE (DIM TC 2021JJ00)))));op welke gemiddelde leeftijd zijn vrouwen getrouwd in 2021
+87;(VALUE (37772ned (MSR 1080_4 (WHERE (DIM TC 2016JJ00)))));hoeveel gescheiden vrouwen zijn er in 2016 getrouwd
+88;(VALUE (37772ned (MSR D003634_2 (WHERE (DIM TC 1993JJ00)))));hoeveel vrouwen in 1993 zijn minimaal 2 keer getrouwd
+89;(VALUE (37772ned (MSR 1080_5 (WHERE (DIM TC 1981JJ00)))));op welke leeftijd zijn gescheiden mannen in 1981 getrouwd
+90;(VALUE (37789ksz (MSR D000192 (WHERE (DIM TC 2006MM12)))));hoeveel anw uitkerningen zijn erin december 2006 uitgegeven
+91;(VALUE (37789ksz (MSR 90210 (WHERE (DIM TC 2001MM10)))));hoeveel mensen tot aow leeftijd hadden in oktober 2001 een bijstandsuitkering
+92;(VALUE (37789ksz (MSR D007076_2 (WHERE (DIM TC 2018MM01)))));aantal werkloosheidsuitkeringen in januari van 2018
+93;(VALUE (37789ksz (MSR 90210 (WHERE (DIM TC 2020MM10)))));hoeveel bijstandsuitkeringen tot aow leeftijd waren er in oktober 2020
+94;(VALUE (37789ksz (MSR D000287 (WHERE (DIM TC 1999MM01)))));hoeveel mensen kregen een wao uitkering in januari 1999
+94;(VALUE (37789ksz (MSR D000287 (WHERE (DIM TC 1999MM01)))));hoeveel mensen kregen een wao-uitkering in januari 1999
+95;(VALUE (37789ksz (MSR D000194 (WHERE (DIM TC 2016MM06)))));hoeveel aow uitkeringen zijn er in juni 2016 uitgegeven
+95;(VALUE (37789ksz (MSR D000194 (WHERE (DIM TC 2016MM06)))));hoeveel aow-uitkeringen zijn er in juni 2016 uitgegeven
+96;(VALUE (37789ksz (MSR D000192 (WHERE (DIM TC 1999JJ00)))));aantal anw-uitkeringen 1999
+97;(VALUE (37789ksz (MSR D000194 (WHERE (DIM TC 2009MM12)))));aantal aow-uitkeringen december 2009
+97;(VALUE (37789ksz (MSR D000194 (WHERE (DIM TC 2009MM12)))));hoeveel aow uitkeringen zijn er uitgegeven in december 2009
+98;(VALUE (37789ksz (MSR D000288 (WHERE (DIM TC 2007MM07)))));waz uitkeringen juli 2007
+99;(VALUE (37789ksz (MSR D000235 (WHERE (DIM TC 2020MM11)))));iow-uitkeringen november 2020
+100;(VALUE (37789ksz (MSR 90210 (WHERE (DIM TC 2010MM02)))));bijstandsuitkeringen tot aow leeftijd februari 2010
+101;(VALUE (37789ksz (MSR D000288 (WHERE (DIM TC 2011JJ00)))));hoeveel mensen kregen een waz uitkering in 2011
+102;(VALUE (37789ksz (MSR D000198_2 (WHERE (DIM TC 2008MM06)))));totaal aantal arbeidsongeschiktheidsuitkeringen in juni 2008
+103;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2005JJ00)))));totaal aantal bijstandsuitkeringen vanaf aow leeftijd in 2005
+104;(VALUE (37789ksz (MSR D000192 (WHERE (DIM TC 2005MM09)))));hoeveel anw uitkeringen in september van 2005
+105;(VALUE (37789ksz (MSR D000192 (WHERE (DIM TC 1999JJ00)))));hoeveel anw-uitkeringen in 1999
+106;(VALUE (37789ksz (MSR D000288 (WHERE (DIM TC 1998MM08)))));aantal waz-uitkeringen in augustus 1998
+107;(VALUE (37789ksz (MSR D000233 (WHERE (DIM TC 2012MM11)))));aantal uitgegeven ioaw uitkeringen in november 2012
+108;(VALUE (37789ksz (MSR D000235 (WHERE (DIM TC 2016JJ00)))));hoeveel iow uitkeringen in 2016
+109;(VALUE (37789ksz (MSR D000236 (WHERE (DIM TC 2015MM06)))));iva uitkeringen in juni van 2015
+110;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht 3000) (DIM TC 2009JJ00)))));relatief aantal zuigelingensterfte onder jongens in 2009
+110;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht 3000) (DIM TC 2009JJ00)))));relatieve zuigelingensterfte mannen in 2009
+111;(VALUE (37979ned (MSR M000180 (WHERE (DIM TC 2008JJ00) (DIM Geslacht 3000)))));levensverwachting van mannen bij geboorte in 2008
+111;(VALUE (37979ned (MSR M000180 (WHERE (DIM TC 2008JJ00) (DIM Geslacht 3000)))));wat was de levensverwachting bij mannen in 2008
+112;(VALUE (37979ned (MSR M000181_1 (WHERE (DIM Geslacht T001038) (DIM TC 1985JJ00)))));zuigelingenstrefte in 1985
+112;(VALUE (37979ned (MSR M000181_1 (WHERE (DIM Geslacht T001038) (DIM TC 1985JJ00)))));wat was de totale zuigelingensterfte in 1985
+113;(VALUE (37979ned (MSR M000180 (WHERE (DIM Geslacht 3000)))));levensverwachting van mannen bij geboorte
+113;(VALUE (37979ned (MSR M000180 (WHERE (DIM Geslacht 3000)))));wat was de levensverwachting bij mannen
+114;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht T001038)))));relatieve zuigelingensterfte totaal
+114;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht T001038)))));totale relatieve zuigelingensterfte
+115;(VALUE (37979ned (MSR M003619_1 (WHERE (DIM TC 2009JJ00) (DIM Geslacht 3000)))));overleden jongetjes binnen maand na geboorte in 2009
+115;(VALUE (37979ned (MSR M003619_1 (WHERE (DIM TC 2009JJ00) (DIM Geslacht 3000)))));overleden jongens binnen 4 weken na geboorte in 2009
+116;(VALUE (37979ned (MSR M003503 (WHERE (DIM Geslacht 3000) (DIM TC 1977JJ00)))));leeftijd bij overlijden van mannen in 1977
+117;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht 4000)))));relatief aantal zuigelingensterfte onder meisjes
+117;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht 4000)))));relatieve zuigelingensterfte meisjes
+117;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht 4000)))));relatieve zuigelingensterfte vrouwen
+118;(VALUE (37979ned (MSR M000181_1 (WHERE (DIM Geslacht T001038)))));totale zuigelingensterfte
+119;(VALUE (37979ned (MSR M003503 (WHERE (DIM Geslacht T001038) (DIM TC 2005JJ00)))));gemiddelde leeftijd bij overlijden
+119;(VALUE (37979ned (MSR M003503 (WHERE (DIM Geslacht T001038) (DIM TC 2005JJ00)))));leeftijd overledenen
+120;(VALUE (37979ned (MSR M000181_2 (WHERE (DIM Geslacht 4000)))));relatieve zuigelingensterfte bij meisjes
+121;(VALUE (37979ned (MSR M000134_2 (WHERE (DIM Geslacht 4000)))));relatief aantal overleden vrouwen
+121;(VALUE (37979ned (MSR M000134_2 (WHERE (DIM Geslacht 4000)))));hoeveel vrouwen zijn er relatief overlednen
+122;(VALUE (37979ned (MSR M000134_1 (WHERE (DIM TC 1975JJ00) (DIM Geslacht T001038)))));totaal aantal overledenen in 1975
+122;(VALUE (37979ned (MSR M000134_1 (WHERE (DIM TC 1975JJ00) (DIM Geslacht T001038)))));hoeveel mensen zijn er in 1975 overleden
+123;(VALUE (37979ned (MSR M003618 (WHERE (DIM TC 1965JJ00)))));gestandaardiseerd aantal overledenen in 1965
+124;(VALUE (37979ned (MSR M000181_1 (WHERE (DIM TC 1956JJ00) (DIM Geslacht T001038)))));totale zuigelingensterfte in 1956
+125;(VALUE (37979ned (MSR M003618 (WHERE (DIM Geslacht T001038)))));totaal aantal gestandaardiseerd overledenen
+126;(VALUE (37979ned (MSR M000181_1 (WHERE (DIM TC 1981JJ00)))));zuigelingensterfte in 1981
+127;(VALUE (37979ned (MSR D005088_1 (WHERE (DIM TC 2018JJ00)))));perinatale sterfte na 24 weken in 2018
+128;(VALUE (37979ned (MSR M000134_2 (WHERE (DIM Geslacht 3000)))));relatief overlijden van mannen
+128;(VALUE (37979ned (MSR M000134_2 (WHERE (DIM Geslacht 3000)))));relatief aantal overleden mannen
+129;(VALUE (37979ned (MSR D005089_2 (WHERE (DIM Geslacht T001038)))));perinatale sterfte na 28 weken relatief
+130;(VALUE (70072ned (MSR M003003 (WHERE (DIM TC 2004JJ00) (DIM GC PV24)))));aantal nieuwbouwwoningen in flevoland in 2004
+130;(VALUE (70072ned (MSR M003003 (WHERE (DIM TC 2004JJ00) (DIM GC PV24)))));hoeveel nieuwbouwwoningen zijn er in flevoland in 2004 gebouwd
+131;(VALUE (70072ned (MSR A045823_3 (WHERE (DIM TC 2015JJ00) (DIM GC PV20)))));hoeveel bos was er in de provincie groningen in 2005
+132;(VALUE (70072ned (MSR A028984 (WHERE (DIM TC 2002JJ00) (DIM GC PV26)))));hoeveel schapen waren er in utrecht in 2002
+132;(VALUE (70072ned (MSR A028984 (WHERE (DIM TC 2002JJ00) (DIM GC PV26)))));hoeveel schapen waren er in de provincie utrecht in 2002
+133;(VALUE (70072ned (MSR A028988 (WHERE (DIM GC PV25) (DIM TC 2002JJ00)))));hoeveel paarden waren er in gelderland in 2002
+133;(VALUE (70072ned (MSR A028988 (WHERE (DIM GC PV25) (DIM TC 2002JJ00)))));hoeveel pony's waren er in gelderland in 2002
+134;(VALUE (70072ned (MSR 1016030_2 (WHERE (DIM GC PV26) (DIM TC 2015JJ00)))));hoeveel gezinnen met kinderen woonden er relatief gezien in de provincie utrecht in 2015
+134;(VALUE (70072ned (MSR 1016030_2 (WHERE (DIM GC PV26) (DIM TC 2015JJ00)))));hoeveel gezinnen met kinderen woonden er relatief gezien in utrecht in 2015
+135;(VALUE (70072ned (MSR A047041 (WHERE (DIM GC PV22)))));welke percentage van drenthe bestaat uit gras
+135;(VALUE (70072ned (MSR A047041 (WHERE (DIM GC PV22)))));hoeveel gras is er in drenthe
+136;(VALUE (70072ned (MSR T001455_3 (WHERE (DIM GC PV23)))));wat is de totale oppervlakte van overijssel
+136;(VALUE (70072ned (MSR T001455_3 (WHERE (DIM GC PV23)))));hoe groot is overijssel
+137;(VALUE (70072ned (MSR A029002 (WHERE (DIM TC 2006JJ00)))));hoeveel overig pluimvee was er in 2006
+138;(VALUE (70072ned (MSR A047043 (WHERE (DIM GC PV20) (DIM TC 2021JJ00)))));hoeveel tijdelijk grasland was er in de provincie groningen in 2021
+139;(VALUE (70072ned (MSR D000110_2 (WHERE (DIM TC 2010JJ00)))));wat was de totale demografische druk in 2010
+140;(VALUE (70072ned (MSR 70300_1 (WHERE (DIM TC 2012JJ00) (DIM GC LD03)))));hoeveel 11 jarigen waren er in west nederland in 2012
+140;(VALUE (70072ned (MSR 70300_1 (WHERE (DIM TC 2012JJ00) (DIM GC LD03)))));hoeveel tieners waren er in west-nederland in 2012
+141;(VALUE (70072ned (MSR A045814_2 (WHERE (DIM TC 1996JJ00) (DIM GC PV20)))));hoeveel recreatieterrein was er in 1996 in de provincie groningen
+142;(VALUE (70072ned (MSR 383105 (WHERE (DIM TC 2015JJ00)))));hoeveel communicatiebedrijven waren er in 2015
+142;(VALUE (70072ned (MSR 383105 (WHERE (DIM TC 2015JJ00)))));hoeveel bedrijfsvestigingen in de vervoerssector waren er in 2015
+142;(VALUE (70072ned (MSR 383105 (WHERE (DIM TC 2015JJ00)))));bedrijven vervoer 2015
+143;(VALUE (70072ned (MSR T001455_3 (WHERE (DIM TC 1997JJ00)))));wat was de totale oppervlakte in 1997
+144;(VALUE (70072ned (MSR A048262 (WHERE (DIM TC 2012JJ00)))));van hoeveel procent van de woningen in 2012 was de eigenaar onbekend
+145;(VALUE (70072ned (MSR 70300_1 (WHERE (DIM GC LD04)))));hoeveel tieners zijn er in zuid-nederland
+145;(VALUE (70072ned (MSR 70300_1 (WHERE (DIM GC LD04)))));hoeveel 13-jarigen zijn er in zuid nederland
+146;(VALUE (70072ned (MSR A045814_3 (WHERE (DIM TC 2006JJ00) (DIM GC LD02)))));hoeveel recreatieterrein was er per inwoner in 2006 in oost-nederland
+147;(VALUE (70072ned (MSR A045820_1 (WHERE (DIM TC 2006JJ00)))));hoeveel hectare landbouwgrond was er in 2006
+148;(VALUE (70072ned (MSR 2012657_2 (WHERE (DIM TC 1999JJ00) (DIM GC PV28)))));aantal migranten met een niet westerese achtergrond in zuid holland in 1999
+149;(VALUE (70072ned (MSR M000353 (WHERE (DIM TC 2016JJ00) (DIM GC PV22)))));hoeveel inwoners had de provincie drenthe in 2016
+149;(VALUE (70072ned (MSR M000353 (WHERE (DIM TC 2016JJ00) (DIM GC PV22)))));hoeveel inwoners had drenthe in 2016
+150;(VALUE (70072ned (MSR 70400_2 (WHERE (DIM TC 2008JJ00) (DIM GC NL01)))));hoeveel 10 tot 15 jarigen waren er in 2008 in Nederland
+151;(VALUE (70072ned (MSR D000110_2 (WHERE (DIM TC 2011JJ00)))));wat was de totale demografische druk in 2011
+152;(VALUE (70072ned (MSR T001491_2 (WHERE (DIM TC 2008JJ00)))));hoeveel wegdek lag er in nederland in 2008
+152;(VALUE (70072ned (MSR T001491_2 (WHERE (DIM TC 2008JJ00)))));hoeveel wegen waren er in nederland in 2008
+153;(VALUE (70072ned (MSR A025282 (WHERE (DIM TC 2017JJ00)))));hoeveel scholen voor speciaal onderwijs waren er in 2017
+153;(VALUE (70072ned (MSR A025282 (WHERE (DIM TC 2017JJ00)))));hoeveel speciale scholen waren er in 2017
+154;(VALUE (70072ned (MSR D000027 (WHERE (DIM TC 2012JJ00)))));wat was de afstand tot een huisartsenpost in 2012
+154;(VALUE (70072ned (MSR D000027 (WHERE (DIM TC 2012JJ00)))));hoe ver was een huisartsenpost in 2012
+155;(VALUE (70072ned (MSR A008187_1 (WHERE (DIM GC PV29)))));hoeveel overig niet westerse migranten wonen er in zeeland
+155;(VALUE (70072ned (MSR A008187_1 (WHERE (DIM GC PV29)))));hoeveel overig niet-westerse migranten wonen er in de provincie zeeland
+156;(VALUE (70072ned (MSR A045791_5 (WHERE (DIM GC PV20)))));hoeveel restaurants zijn er binnen een straal van 3 kilometer in groningen
+156;(VALUE (70072ned (MSR A045791_5 (WHERE (DIM GC PV20)))));provincie groningen aantal restaurants binnen drie km
+157;(VALUE (70072ned (MSR M000155 (WHERE (DIM GC PV26)))));hoeveel mensen hebben zich vanuit een andere gemeente gevestigd in de provincie utrecht
+158;(VALUE (70072ned (MSR D003038 (WHERE (DIM TC 2020JJ00)))));wat was de waarde van woningen in 2020
+158;(VALUE (70072ned (MSR D003038 (WHERE (DIM TC 2020JJ00)))));hoeveel waren woningen waard in 2020
+159;(VALUE (70072ned (MSR M000353 (WHERE (DIM TC 1998JJ00)))));hoeveel inwoners waren er in 1998
+159;(VALUE (70072ned (MSR M000353 (WHERE (DIM TC 1998JJ00)))));aantal inwoners 1998
+159;(VALUE (70072ned (MSR M000353 (WHERE (DIM TC 1998JJ00)))));inwoners 1998
+160;(VALUE (70072ned (MSR D000028 (WHERE (DIM TC 2012JJ00)))));afstand tot dokter 2012
+160;(VALUE (70072ned (MSR D000028 (WHERE (DIM TC 2012JJ00)))));afstand tot een huisarts in 2012
+160;(VALUE (70072ned (MSR D000028 (WHERE (DIM TC 2012JJ00)))));wat was de afstand tot een huisartsenpraktijk in 2012
+160;(VALUE (70072ned (MSR D000028 (WHERE (DIM TC 2012JJ00)))));wat was d e afstand tot een dokter in 2012
+161;(VALUE (70072ned (MSR M000315_2 (WHERE (DIM TC 2013JJ00)))));wat was het relatieve geboorteoverschot in 2013
+161;(VALUE (70072ned (MSR M000315_2 (WHERE (DIM TC 2013JJ00)))));relatief geboorteoverschot 2013
+162;(VALUE (70072ned (MSR 21700_1 (WHERE (DIM TC 2000JJ00)))));hoeveel 80 plusser waren er in 2000
+162;(VALUE (70072ned (MSR 21700_1 (WHERE (DIM TC 2000JJ00)))));mensen van 80 of ouder in 2000
+163;(VALUE (70072ned (MSR A025280 (WHERE (DIM GC PV25)))));hoeveel kinderen gaan naar de basisschool in gelderland
+163;(VALUE (70072ned (MSR A025280 (WHERE (DIM GC PV25)))));aantal basisschoolscholieren in gelderland
+163;(VALUE (70072ned (MSR A025280 (WHERE (DIM GC PV25)))));aantal leerlingen basisonderwijs gelderland
+164;(VALUE (70072ned (MSR A025454 (WHERE (DIM GC PV29)))));hoeveel kilo gft afval was er in zeeland
+164;(VALUE (70072ned (MSR A025454 (WHERE (DIM GC PV29)))));hoeveel kilogram gft-afval in zeeland
+164;(VALUE (70072ned (MSR A025454 (WHERE (DIM GC PV29)))));hoeveel groente-
+164;(VALUE (70072ned (MSR A025454 (WHERE (DIM GC PV29)))));fruit- en tuinafval in zeeland
+165;(VALUE (70072ned (MSR M000315_1 (WHERE (DIM GC PV20) (DIM TC 2005JJ00)))));wat was het geboorteoverschot in groningen in 2005
+165;(VALUE (70072ned (MSR M000315_1 (WHERE (DIM GC PV20) (DIM TC 2005JJ00)))));geboorteoverschot provincie groningen 2005
+165;(VALUE (70072ned (MSR M000315_1 (WHERE (DIM GC PV20) (DIM TC 2005JJ00)))));geboorteoverschot groningen 2005
+166;(VALUE (70072ned (MSR A047042 (WHERE (DIM TC 2022JJ00) (DIM GC PV24)))));grasland in flevoland 2022
+166;(VALUE (70072ned (MSR A047042 (WHERE (DIM TC 2022JJ00) (DIM GC PV24)))));hoeveel gras is er in flevoland in 2022
+166;(VALUE (70072ned (MSR A047042 (WHERE (DIM TC 2022JJ00) (DIM GC PV24)))));hoeveelheid natuurlijk gras flevoland 2022
+167;(VALUE (70072ned (MSR M000330_1 (WHERE (DIM TC 2015JJ00) (DIM GC PV26)))));hoeveel particuliere auto's in utrecht in 2015
+167;(VALUE (70072ned (MSR M000330_1 (WHERE (DIM TC 2015JJ00) (DIM GC PV26)))));aantal particulieren personenauto's in de provincie utrecht in 2015
+168;(VALUE (70072ned (MSR 53715_2 (WHERE (DIM TC 2005JJ00) (DIM GC PV28)))));welk percentage van de inwoners van zuid holland was in 2005 tussen de 45 en 65 jaar
+169;(VALUE (70072ned (MSR A018934_2 (WHERE (DIM TC 2010JJ00)))));welk percentage van inwoners heeft een bromfiets in 2010
+175;(VALUE (70737ned (MSR M000134 (WHERE (DIM TC 2027JJ00)))));hoeveel overledenen zijn er in 2027
+175;(VALUE (70737ned (MSR M000134 (WHERE (DIM TC 2027JJ00)))));hoeveel mensen gaan overlijden in 2027
+194;(VALUE (80066ned (MSR M002465 (WHERE (DIM TC 2004X000)))));wat was het aandeel van innovatoren aan de onderzoekspopulatie tussen 2004 en 2006
+196;(VALUE (81358ned (MSR M002401 (WHERE (DIM BedrijfstakkenBranchesSBI2008 317100) (DIM TC 2018JJ00) (DIM LandVanUiteindelijkeZeggenschapUCI L008723)))));hoeveel bedrijven in de papierindustrie waren er in roemenië in 2018
+197;(VALUE (81358ned (MSR M001034 (WHERE (DIM TC 2017JJ00) (DIM BedrijfstakkenBranchesSBI2008 318600)))));wat was de productiewaarde binnen de grafische industrie in 2017
+199;(VALUE (81358ned (MSR M002401 (WHERE (DIM BedrijfstakkenBranchesSBI2008 317100)))));hoeveel bedrijven zijn er in de papierindustrie
+200;(VALUE (81358ned (MSR T001098_2 (WHERE (DIM BedrijfstakkenBranchesSBI2008 312200) (DIM LandVanUiteindelijkeZeggenschapUCI L008598)))));hoeveel mensen werken er in de tabaksindustrie in Estland
+201;(VALUE (81358ned (MSR M002065 (WHERE (DIM BedrijfstakkenBranchesSBI2008 317100) (DIM TC 2018JJ00) (DIM LandVanUiteindelijkeZeggenschapUCI L008657)))));hoeveel kost het personeel in de papierindustrie in Letland in 2018
+202;(VALUE (81358ned (MSR M002753_1 (WHERE (DIM LandVanUiteindelijkeZeggenschapUCI L008587) (DIM TC 2017JJ00)))));kosten aankoop van goederen in cyprus 2017
+203;(VALUE (81358ned (MSR T001098_2 (WHERE (DIM BedrijfstakkenBranchesSBI2008 314000) (DIM TC 2014JJ00)))));aantal mensen werkzaam in de kledingindustrie in 2014
+203;(VALUE (81358ned (MSR T001098_2 (WHERE (DIM BedrijfstakkenBranchesSBI2008 314000) (DIM TC 2014JJ00)))));werknemers kledingindustrie 2014
+215;(VALUE (81431ned (MSR M001756 (WHERE (DIM TC 2014JJ00) (DIM KenmerkenBaanWerknemerBedrijf 2021209)))));inclusief jaarloon deeltijd 2014
+215;(VALUE (81431ned (MSR M001756 (WHERE (DIM TC 2014JJ00) (DIM KenmerkenBaanWerknemerBedrijf 2021209)))));hoeveel was het inclusieve jaarloon van deeltijd werknemers in 2014
+216;(VALUE (81431ned (MSR M001945 (WHERE (DIM BedrijfstakkenBranchesSBI2008 354200) (DIM TC 2019JJ00)))));wat is het uurloon in de handel sector in 2019
+217;(VALUE (81431ned (MSR M001891 (WHERE (DIM TC 2013JJ00) (DIM BedrijfstakkenBranchesSBI2008 396300) (DIM KenmerkenBaanWerknemerBedrijf 4000)))));hoeveel uur werkten vrouwen in de financiële dienstverlening in 2013
+218;(VALUE (81431ned (MSR M001778_2 (WHERE (DIM KenmerkenBaanWerknemerBedrijf 2021240)))));wat is het maandloon van een voltijd werknemer
+218;(VALUE (81431ned (MSR M001778_2 (WHERE (DIM KenmerkenBaanWerknemerBedrijf 2021240)))));loon voltijd werknemer
+219;(VALUE (81431ned (MSR M001756 (WHERE (DIM TC 2014JJ00) (DIM BedrijfstakkenBranchesSBI2008 402000) (DIM KenmerkenBaanWerknemerBedrijf 70700)))));hoeveel mensen van 30 jaar werkten er in verhuur en handel van huizen in 2014
+220;(VALUE (81431ned (MSR M001756 (WHERE (DIM TC 2013JJ00)))));hoeveel was het jaarloon inclusief beloning in 2013
+227;(VALUE (81431ned (MSR M001890 (WHERE (DIM KenmerkenBaanWerknemerBedrijf 2021240) (DIM TC 2016JJ00)))));hoeveel uur hebben fulltime werknemers gewerkt in 2016
+228;(VALUE (81431ned (MSR M002480 (WHERE (DIM TC 2009JJ00) (DIM BedrijfstakkenBranchesSBI2008 391600)))));hoeveel banen zijn er in de branche informatie en communicatie in 2009
+230;(VALUE (81431ned (MSR M001755 (WHERE (DIM KenmerkenBaanWerknemerBedrijf 53925)))));wat is het jaarloon van personeel tussen de 65 en 75 jaar oud
+231;(VALUE (81431ned (MSR M002013 (WHERE (DIM TC 2015JJ00) (DIM KenmerkenBaanWerknemerBedrijf 53925)))));hoeveel uur werd er in 2019 gewerkt in de bouwnijverheid
+232;(VALUE (81431ned (MSR M001889 (WHERE (DIM BedrijfstakkenBranchesSBI2008 350000) (DIM TC 2019JJ00)))));hoeveel uur is er in de bouwnijverheid gewerkt in 2019
+237;(VALUE (81628NED (MSR M007205 (WHERE (DIM TC 2019JJ00)))));hoeveel studenten zijn afgestudeerd van de opleiding verplegkunde in 2019
+238;(VALUE (81628NED (MSR M005535 (WHERE (DIM TC 2004JJ00)))));hoeveel geboortes waren er bij moeders ouder dan 35 in 2004
+240;(VALUE (81628NED (MSR M007204 (WHERE (DIM TC 2019JJ00)))));aantal afgestudeerden studenten geneeskunde in 2019
+240;(VALUE (81628NED (MSR M007204 (WHERE (DIM TC 2019JJ00)))));hoeveel studenten studeerden af van de opleidingen geneeskunde in 2019
+244;(VALUE (81628NED (MSR D004009 (WHERE (DIM TC 2012JJ00)))));welk percentage van kinderen had ernstig overgewicht in 2012
+248;(VALUE (81628NED (MSR D004009 (WHERE (DIM TC 2005JJ00)))));ernstig overgewicht tieners in 2005
+251;(VALUE (81628NED (MSR M004829 (WHERE (DIM TC 2011JJ00)))));hoeveel mensen werkten er in de gezondheidszorg in 2011
+256;(VALUE (81850NED (MSR M000761_2 (WHERE (DIM TC 1999JJ00)))));hoeveel is er per deelnemer besteed aan cursussen in 1999
+257;(VALUE (81850NED (MSR M000767_1 (WHERE (DIM TC 2015JJ00)))));uren cursus per werknemer 2015
+257;(VALUE (81850NED (MSR M000767_1 (WHERE (DIM TC 2015JJ00)))));hoeveel uren hebben werknemers besteed aan cursussen in 2015
+258;(VALUE (81850NED (MSR M000767_1 (WHERE (DIM TC 1999JJ00)))));bestede uren aan cursussen per werknemer in 1999
+259;(VALUE (81850NED (MSR D003605_2 (WHERE (DIM TC 1993JJ00)))));hoeveel bedrijven hebben opleidingen in 1993
+260;(VALUE (81850NED (MSR T001038 (WHERE (DIM TC 2020JJ00)))));hoeveel werknemers hebben een cursus gevolgd in 2020
+261;(VALUE (81850NED (MSR D000482 (WHERE (DIM TC 2010JJ00)))));hoeveel uur is besteed aan interne cursussen in 2010
+262;(VALUE (81850NED (MSR M000761_3 (WHERE (DIM TC 2005JJ00)))));hoeveel is er besteed aan curcussen per deelnemer in 2005
+271;(VALUE (81850NED (MSR T001038 (WHERE (DIM TC 1999JJ00)))));hoeveel procent van werknemers hebben een cursus gevolgd in 1999
+276;(VALUE (82058NED (MSR D006210_12 (WHERE (DIM TC 2014MM05)))));hoeveel buitenlanders overnachtten in groepsaccomodaties in mei van 2014
+276;(VALUE (82058NED (MSR D006210_12 (WHERE (DIM TC 2014MM05)))));aantal overnachtingen van buitenlanders in groepsaccomodaties in mei 2014
+277;(VALUE (82058NED (MSR D006210_1 (WHERE (DIM TC 2017MM08)))));hoeveel mensen uit het buitenland verbleven een nacht in een accomodatie in augustus van 2017
+297;(VALUE (82242NED (MSR M001327 (WHERE (DIM TC 1994MM03)))));hoeveel faillissementen zijn er in maart 1994 uitgesproken
+320;(VALUE (82634NED (MSR D003207 (WHERE (DIM Persoonskenmerken 3000)))));hoeveel procent van de mannen is gelukkig
+380;(VALUE (83249NED (MSR D000475 (WHERE (DIM TC 2019JJ00)))));welk percentage van bedrijven had breedband internet in 2019
+381;(VALUE (83249NED (MSR M001215 (WHERE (DIM TC 2019JJ00)))));hoeveel bedrijven hebben vast breedbeeld in 2019
+382;(VALUE (83249NED (MSR M000707 (WHERE (DIM TC 2016JJ00)))));hoeveel werknemers werktten met mobiel internet in 2016
+383;(VALUE (83249NED (MSR M000640 (WHERE (DIM TC 2017JJ00)))));bedrijven met mobiel breedband in 2017
+384;(VALUE (83249NED (MSR M000705 (WHERE (DIM TC 2012JJ00)))));mensen die werken met een computer in 2016
+384;(VALUE (83249NED (MSR M000705 (WHERE (DIM TC 2012JJ00)))));hoeveel mensen werkten er op een computer voor hun baan in 2016
+385;(VALUE (83249NED (MSR M000707 (WHERE (DIM TC 2016JJ00)))));werknemers mobiel internet in 2016
+386;(VALUE (83249NED (MSR D000475 (WHERE (DIM TC 2003JJ00)))));bedrijven met breedband internet in 2003
+387;(VALUE (83249NED (MSR M000776 (WHERE (DIM TC 2004JJ00)))));telewerkers in 2004
+388;(VALUE (83249NED (MSR M000775 (WHERE (DIM TC 2019JJ00)))));percentage van bedrijven waar telewerk voorkomt in 2019
+389;(VALUE (83249NED (MSR M000706 (WHERE (DIM TC 2005JJ00)))));werknemers die werken met internet in 2005
+390;(VALUE (83249NED (MSR M001215 (WHERE (DIM TC 2004JJ00)))));bedrijven met vast breedband in 2004
+391;(VALUE (83249NED (MSR M000707 (WHERE (DIM TC 2020JJ00)))));personeel dat werkt met mobiel internet in 2020
+392;(VALUE (83249NED (MSR M000706 (WHERE (DIM TC 2018JJ00)))));werkende personen met internet in 2018
+393;(VALUE (83249NED (MSR M000706 (WHERE (DIM TC 2021JJ00)))));personeel internet 2021
+394;(VALUE (83249NED (MSR M000707 (WHERE (DIM TC 2010JJ00)))));hoeveel procent van werkzame personen werkte in 2010 met mobiel internet
+395;(VALUE (83249NED (MSR M001251 (WHERE (DIM TC 2005JJ00)))));hoeveel procent van de bedrijven had internet in 2005
+396;(VALUE (83249NED (MSR M000706 (WHERE (DIM TC 2003JJ00)))));percentage werknemers dat werkt met internet in 2003
+397;(VALUE (83249NED (MSR D000475 (WHERE (DIM TC 2020JJ00)))));percentage bedrijven breedbandverbinding 2020
+398;(VALUE (83249NED (MSR M001251 (WHERE (DIM TC 2013JJ00)))));hoeveel procent van de bedrijven had een internetverbinding in 2013
+399;(VALUE (83249NED (MSR M000705 (WHERE (DIM TC 2016JJ00)))));hoeveel werknemers werkte met een computer in 2016
+431;(VALUE (83555NED (MSR D003105 (WHERE (DIM HerkomstBestemming A028562)))));hoeveel afval wordt er hergebruikt
+432;(VALUE (83555NED (MSR D003105 (WHERE (DIM HerkomstBestemming A028562) (DIM TC 2010JJ00)))));afval dat opnieuw wordt gebruikt in 2010
+433;(VALUE (83555NED (MSR D003105 (WHERE (DIM TC 2004JJ00)))));hoeveel afval was er in 2004
+433;(VALUE (83555NED (MSR D003105 (WHERE (DIM TC 2004JJ00)))));totaal afval 2004
+434;(VALUE (83555NED (MSR D003105 (WHERE (DIM HerkomstBestemming A028564) (DIM TC 2000JJ00)))));afval dat wordt gestort en geloosd in 2000
+435;(VALUE (83555NED (MSR D003105 (WHERE (DIM TC 1992JJ00) (DIM HerkomstBestemming A028561)))));hoeveel afval werd vervoerd om verwerkt te worden in 1992
+436;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047004) (DIM Regiokenmerken A007402)))));wat is de toeristenbelasting voor gemeentes met 100000 tot 150000 inwoners
+437;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047003) (DIM Regiokenmerken CR06)))));precariobelasting in corop zuidoost friesland
+438;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047004) (DIM TC 2015JJ00) (DIM Regiokenmerken CR37)))));wat was de toeristenbelasting per inwoner in noord limburg in 2015
+439;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM Regiokenmerken CR26) (DIM GemeentelijkeHeffingenVanaf2017 A047006)))));wat is de rioolheffing in agglomeratie 's gravenhage
+439;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM Regiokenmerken CR26) (DIM GemeentelijkeHeffingenVanaf2017 A047006)))));wat is de rioolheffing in agglomeratie den haag
+440;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM TC 2005JJ00) (DIM Regiokenmerken CR08)))));hoeveel kostte gemeentelijke heffingen bewoners van zuidoost drenthe in 2005
+442;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM TC 2018JJ00) (DIM GemeentelijkeHeffingenVanaf2017 A047009) (DIM Regiokenmerken A007399)))));wat zijn de begraafplaatsrechten voor gemeentes met 50 tot 100 duizend inwoners in 2018
+443;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM TC 2017JJ00)))));wat waren de gemeentelijke heffingen in 2017
+444;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM Regiokenmerken A007398) (DIM GemeentelijkeHeffingenVanaf2017 A046999)))));wat is de totale onroerendezaakbelasting in gemeentes met 20 tot 50000 inwoners
+445;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM TC 2007JJ00) (DIM Regiokenmerken A007403)))));gemeente heffingen 150-250000 inwoners 2007
+446;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM TC 2023JJ00) (DIM Regiokenmerken CR19) (DIM GemeentelijkeHeffingenVanaf2017 A047004)))));wat is de toeristenbelasting in alkmaar en omgeving in 2023
+447;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM Regiokenmerken CR01) (DIM TC 2012JJ00) (DIM GemeentelijkeHeffingenVanaf2017 A047004)))));wat was de toeristenbelasting in oost-groningen in 2012
+448;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM TC 2005JJ00)))));hoeveel waren gemeentelijke heffingen in 2005
+449;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM Regiokenmerken CR01) (DIM TC 2013JJ00)))));gemeentelijke heffingen per inwoner in oost groningen 2013
+450;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM Regiokenmerken A007399)))));gemeentelijke heffingen 50 tot 100 duizend inwoners
+451;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM Regiokenmerken CR27) (DIM TC 2010JJ00)))));wat waren de gemeentelijke heffingen in de corop delft en westland in 2010
+451;(VALUE (83616NED (MSR M001178_1 (WHERE (DIM Regiokenmerken CR27) (DIM TC 2010JJ00)))));wat waren de gemeentelijke heffingen in delft en westland in 2010
+452;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM TC 2011JJ00) (DIM Regiokenmerken CR23)))));gemeentebelastingen per inwoner in groot-amsterdam 2011
+453;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM TC 2020JJ00) (DIM GemeentelijkeHeffingenVanaf2017 A047009) (DIM Regiokenmerken CR24)))));begraafplaatsrechten in gooi en vechtstreek in 2020
+454;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM TC 2006JJ00) (DIM GemeentelijkeHeffingenVanaf2017 A047003)))));precariobelasting in 2006
+455;(VALUE (83616NED (MSR M001178_2 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047004) (DIM Regiokenmerken CR12)))));toeristenbelasting in twente
+456;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM TC 2014JJ00)))));gemeentelijke heffingen per inwoner in 2014
+457;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM GC GM0502)))));wat zijn de gemeentelijke heffingen in Capelle aan den IJssel
+458;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM TC 2014JJ00) (DIM GC GM0183) (DIM GemeentelijkeHeffingenVanaf2017 A046999)))));Wat was de onroerendezaakbelasting van Tubbergen in 2014
+459;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047003) (DIM GC GM0995)))));wat is de precariobelasting in lelystad
+460;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047004) (DIM GC GM0899)))));Wat is de toeristenbelasting in Brunssum
+461;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM TC 2010JJ00) (DIM GemeentelijkeHeffingenVanaf2017 A047006) (DIM GC GM0851)))));Hoeveel betaalt een inwoner van Steenbergen aan rioolheffing in 2010
+462;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047003) (DIM GC GM0753)))));precariobelasting in Best
+463;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM TC 2012JJ00)))));wat waren de gemeentelijke heffingen in 2012 per inwoner
+464;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047006)))));wat is de rioolheffing
+465;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM GC GM0715) (DIM TC 2022JJ00)))));gemeentebelasting per inwoner in terneuzen 2022
+466;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047004)))));wat is de toeristenbelasting per inwoner
+467;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM TC 2008JJ00)))));hoeveel gemeentelijke heffingen in 2008
+469;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM TC 2005JJ00) (DIM GC GM0882) (DIM GemeentelijkeHeffingenVanaf2017 A046999)))));onroerendezaakbelasting in landgraaf in 2005
+470;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM GC GM0017)))));wat zijn de heffingen in haren
+471;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047007)))));afvalheffing per inwoner
+472;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM GC GM0765)))));heffingen in pekela
+473;(VALUE (83643NED (MSR M001178_1 (WHERE (DIM TC 2008JJ00)))));gemeentelijke heffingen in 2008
+474;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM GemeentelijkeHeffingenVanaf2017 A047004) (DIM TC 2016JJ00) (DIM GC GM0358)))));toeristenbelasting in aalsmeer in 2016
+475;(VALUE (83643NED (MSR M001178_2 (WHERE (DIM GC GM0189)))));heffingen per inwoner in wierden
+496;(VALUE (83673NED (MSR M002977 (WHERE (DIM TC 2014VJ12) (DIM Eigendom A028867)))));wat was de gemiddelde inhoud van huurwoningen in 2014
+497;(VALUE (83673NED (MSR M002974 (WHERE (DIM TC 2020VJ09)))));wat waren de bouwkosten in 2020 per kubieke meter
+498;(VALUE (83673NED (MSR M002975 (WHERE (DIM GC LD02) (DIM TC 2022VJ09) (DIM Eigendom A028867)))));wat waren de bouwkosten van huurwoningen in oost nederland in mei 2022
+499;(VALUE (83673NED (MSR M002977 (WHERE (DIM TC 2014VJ09) (DIM GC LD01)))));inhoud van woningen januari 2014 in noord-nederland
+500;(VALUE (83673NED (MSR M002973 (WHERE (DIM TC 2019VJ06)))));bouwkoster per vierkante meter in juni 2019
+501;(VALUE (83673NED (MSR M002977 (WHERE (DIM GC NL01) (DIM Eigendom A028867) (DIM TC 2018VJ03)))));inhoud woningen in nederland tussen april 2017 en maart 2018
+502;(VALUE (83673NED (MSR M002974 (WHERE (DIM GC LD02) (DIM Eigendom A028868) (DIM TC 2019VJ03)))));bouwkosten per kubieke meter voor koopwoningen in oost-nederland eind 2018
+503;(VALUE (83673NED (MSR M002973 (WHERE (DIM GC NL01) (DIM TC 2016VJ09)))));bouwkosten m2 2015 nederland
+504;(VALUE (83673NED (MSR M002974 (WHERE (DIM Eigendom A028867) (DIM GC LD03)))));wat waren de gemiddelde bouwkosten per kubieke meter van huurwoningen in west nederland
+505;(VALUE (83673NED (MSR M002973 (WHERE (DIM GC NL01) (DIM Eigendom A028867)))));bouwkoster per vierkante meter voor huurwoningen in nederland
+506;(VALUE (83673NED (MSR M002977 (WHERE (DIM GC NL01) (DIM Eigendom A028867)))));inhoud huurhuizen nederland
+507;(VALUE (83673NED (MSR M002973 (WHERE (DIM TC 2019VJ03)))));bouwkoster per m2 in mei 2018
+508;(VALUE (83673NED (MSR M002977 (WHERE (DIM GC NL01) (DIM TC 2021VJ06) (DIM Eigendom A028868)))));inhoud koophuizen in nederland 2021
+509;(VALUE (83673NED (MSR M002977 (WHERE (DIM GC LD03) (DIM Eigendom A028867) (DIM TC 2017VJ03)))));wat was de gemiddelde inhoud van huurhuizen in west-nederland in november 2016
+510;(VALUE (83673NED (MSR M002973 (WHERE (DIM Eigendom A028868) (DIM GC LD01)))));wat zijn de gemiddelde bouwkosten per vierkante meter van koophuizen in noordelijk nederland
+511;(VALUE (83673NED (MSR M002975 (WHERE (DIM GC LD04) (DIM TC 2020VJ09)))));gemiddelde bouwkosten woning zuid nederland december 2019
+512;(VALUE (83673NED (MSR M002977 (WHERE (DIM Eigendom A028867) (DIM TC 2014VJ06)))));kubieke meters huurhuizen augustus 2013
+513;(VALUE (83673NED (MSR M002974 (WHERE (DIM TC 2017VJ03)))));kosten van bouw in m3 tussen april 2016 en maart 2017
+514;(VALUE (83673NED (MSR M002975 (WHERE (DIM GC LD02) (DIM Eigendom A028868)))));kosten van bouwen koophuizen in oost nederland
+515;(VALUE (83673NED (MSR M002978 (WHERE (DIM GC LD02) (DIM Eigendom A028867)))));oppervlakte huurhuizen in oost-nederland
+516;(VALUE (83739NED (MSR M000220 (WHERE (DIM TC 2016JJ00) (DIM KenmerkenVanHuishoudens 1013900)))));besteedbaar inkomen in 2016 voor mensen met sociale uitkering
+517;(VALUE (83739NED (MSR M000939 (WHERE (DIM KenmerkenVanHuishoudens 1020900)))));wat was het mediaan vermogen voor de 4e 10% groep
+518;(VALUE (83739NED (MSR M003232 (WHERE (DIM TC 2020JJ00) (DIM KenmerkenVanHuishoudens 1020930)))));welk bedragen konden mensen uit de 74 10%-groep besteden in 2020
+519;(VALUE (83739NED (MSR M000220 (WHERE (DIM TC 2019JJ00)))));wat was het besteedbaar inkomen in 2019
+520;(VALUE (83739NED (MSR M005905 (WHERE (DIM KenmerkenVanHuishoudens 1017780)))));wat is het ongelijkheid vermogen voor een stel zonder kinderen
+521;(VALUE (83739NED (MSR M000220 (WHERE (DIM KenmerkenVanHuishoudens A025359)))));inkomen voor huishouden met 65 plusser als hoofdwinner
+522;(VALUE (83739NED (MSR 1050010 (WHERE (DIM TC 2020JJ00)))));partuculiere huishoudens 2020
+523;(VALUE (83739NED (MSR D000227 (WHERE (DIM KenmerkenVanHuishoudens 1050190)))));wat is het percentage van lage inkomens in een huishouden met 1 ouder
+524;(VALUE (83739NED (MSR M000939 (WHERE (DIM TC 2015JJ00) (DIM KenmerkenVanHuishoudens A025343)))));wat was het mediaan vermogen voor een hoofdkostwinner tussen de 25 en 45 jaar in 2015
+525;(VALUE (83739NED (MSR M000222 (WHERE (DIM KenmerkenVanHuishoudens 1050220) (DIM TC 2021JJ00)))));welk inkomen hadden overige meerpersoonshuishoudens in 2021
+526;(VALUE (83739NED (MSR M000220 (WHERE (DIM TC 2012JJ00)))));wat was het besteedbaar inkomen in 2012
+527;(VALUE (83739NED (MSR M000222 (WHERE (DIM TC 2016JJ00) (DIM KenmerkenVanHuishoudens 1014050)))));inkomen voor mensen met studiefinanciering in 2016
+528;(VALUE (83739NED (MSR M000939 (WHERE (DIM KenmerkenVanHuishoudens 1020920)))));vermogen 6e 10% groep mediaan
+529;(VALUE (83739NED (MSR D000227 (WHERE (DIM KenmerkenVanHuishoudens 1020950) (DIM TC 2015JJ00)))));hoeveel huishoudens inde 9e 10%-groep vielen in 2015 onder lage inkomens
+530;(VALUE (83739NED (MSR M005905 (WHERE (DIM KenmerkenVanHuishoudens 1020910)))));wat is het ongelijkheid vermogen voor de 5e 10%-groep
+531;(VALUE (83739NED (MSR D000227 (WHERE (DIM TC 2021JJ00) (DIM KenmerkenVanHuishoudens 1014900)))));hoeveel huurders met huurtoeslag vallen onder lage inkomens in 2021
+532;(VALUE (83739NED (MSR M006770 (WHERE (DIM KenmerkenVanHuishoudens A025363) (DIM TC 2015JJ00)))));ongelijkheid inkomen voor huishouden met westerse hoofdkostwinner in 2015
+533;(VALUE (83739NED (MSR M005905 (WHERE (DIM KenmerkenVanHuishoudens A025359) (DIM TC 2021JJ00)))));ongelijkheid vermogen 65 plussers 2021
+534;(VALUE (83739NED (MSR D000227 (WHERE (DIM TC 2020JJ00) (DIM KenmerkenVanHuishoudens 1013400)))));werkende mensen die in 2020 en laag inkomen hadden
+535;(VALUE (83739NED (MSR M000939 (WHERE (DIM TC 2014JJ00) (DIM KenmerkenVanHuishoudens 1020910)))));vermogen van 5e 10% groep in 2014
+771;(VALUE (84878NED (MSR M000174 (WHERE (DIM GeboortegeneratieVrouw 2023JJ00)))));aantal kinderen per moeder in 2023
+772;(VALUE (84878NED (MSR M001586 (WHERE (DIM GeboortegeneratieVrouw 2025JJ00)))));op welke leeftijd krijgen vrouwen voor het eerst een kind in 2025?
+773;(VALUE (84878NED (MSR M001586 (WHERE (DIM GeboortegeneratieVrouw 1973JJ00)))));kindergemiddelde per vrouw 1973
+774;(VALUE (84878NED (MSR M000174 (WHERE (DIM GeboortegeneratieVrouw 2008JJ00)))));hoeveel kinderen had een vrouw gemiddeld in 2008
+775;(VALUE (84878NED (MSR M000174 (WHERE (DIM GeboortegeneratieVrouw 1942JJ00)))));gemiddeld aantal kinderen per vrouw 1942
+776;(VALUE (84878NED (MSR D005048 (WHERE (DIM GeboortegeneratieVrouw 1998JJ00)))));vrouwen zonder kind 1998
+776;(VALUE (84878NED (MSR D005048 (WHERE (DIM GeboortegeneratieVrouw 1998JJ00)))));hoeveel vrouwen waren kindloos in 1998
+777;(VALUE (84878NED (MSR D005164 (WHERE (DIM GeboortegeneratieVrouw 1950JJ00)))));aantal vrouwen met 2 kinderen 1950
+778;(VALUE (84878NED (MSR D005164 (WHERE (DIM GeboortegeneratieVrouw 2003JJ00)))));Vrouwen met twee kinderen in 2003
+779;(VALUE (84878NED (MSR D005165 (WHERE (DIM GeboortegeneratieVrouw 1965JJ00)))));Vrouwen met drie kinderen in 1965
+779;(VALUE (84878NED (MSR D005165 (WHERE (DIM GeboortegeneratieVrouw 1965JJ00)))));hoeveel vrouwen hadden er drie kinderen of meer in 1965
+780;(VALUE (84957NED (MSR M004369 (WHERE (DIM TC 2018JJ00) (DIM Vervoerstromen A045747)))));Binnenlands vervoer pijpleidingen in 2018
+781;(VALUE (84957NED (MSR M004369 (WHERE (DIM Vervoerstromen A045749)))));Totaal export leidingen
+781;(VALUE (84957NED (MSR M004369 (WHERE (DIM Vervoerstromen A045749)))));pijpleidingenexport
+782;(VALUE (84957NED (MSR M004367 (WHERE (DIM TC 2012JJ00) (DIM Vervoerstromen A045749)))));export pijpleidingen 2012
+783;(VALUE (84957NED (MSR M004369 (WHERE (DIM Vervoerstromen A045946) (DIM TC 2014JJ00)))));hoeveel pijpleidingen import en export in 2014
+784;(VALUE (84957NED (MSR M004369 (WHERE (DIM TC 2013JJ00) (DIM Vervoerstromen A045747)))));vervoer leidingen in het binnenland in 2013 in ton
+785;(VALUE (85039NED (MSR T001036 (WHERE (DIM WijkenEnBuurten BU17230107)))));Hoeveel mensen wonen er in buitengebied van Alphen
+785;(VALUE (85039NED (MSR T001036 (WHERE (DIM WijkenEnBuurten BU17230107)))));aantal inwoners buitengebied alphen
+786;(VALUE (85082NED (MSR 1050190_1 (WHERE (DIM TC 2022JJ00)))));Aantal eenoudergezinnen in 2022
+787;(VALUE (85082NED (MSR 1016090_2 (WHERE (DIM TC 2028JJ00)))));Aantal ouders met kinderen in 2028
+788;(VALUE (85082NED (MSR 1011500 (WHERE (DIM TC 2028JJ00)))));prognose gezinnen met drie personen in 2028
+788;(VALUE (85082NED (MSR 1011500 (WHERE (DIM TC 2028JJ00)))));gezinnen 3 groot 2028
+789;(VALUE (85082NED (MSR 1016030_2 (WHERE (DIM TC 2037JJ00)))));Huishoudens met kinderen 2037
+789;(VALUE (85082NED (MSR 1016030_2 (WHERE (DIM TC 2037JJ00)))));aantal gezinnen 2037
+790;(VALUE (85082NED (MSR 1050190_1 (WHERE (DIM TC 2055JJ00)))));prognose eenouderhuishoudens in 2055
+790;(VALUE (85082NED (MSR 1050190_1 (WHERE (DIM TC 2055JJ00)))));prognose gezinnen met een voogd in 2055
+791;(VALUE (85082NED (MSR 1016010_4 (WHERE (DIM TC 2052JJ00)))));aantal grote huishoudens in 2052?
+791;(VALUE (85082NED (MSR 1016010_4 (WHERE (DIM TC 2052JJ00)))));schatting aantal huishoudens 2052
+791;(VALUE (85082NED (MSR 1016010_4 (WHERE (DIM TC 2052JJ00)))));meerpersoons huishoudens 2052
+792;(VALUE (85082NED (MSR M000114 (WHERE (DIM TC 2023JJ00)))));Hoe groot zijn gezinnen in 2023?
+792;(VALUE (85082NED (MSR M000114 (WHERE (DIM TC 2023JJ00)))));schatting grootte huishoudens 2023
+792;(VALUE (85082NED (MSR M000114 (WHERE (DIM TC 2023JJ00)))));gemiddeld huishouden 2023
+794;(VALUE (85082NED (MSR D004038 (WHERE (DIM TC 2028JJ00)))));Aantal gezinnen in 2028
+794;(VALUE (85082NED (MSR D004038 (WHERE (DIM TC 2028JJ00)))));hoeveel huishoudens met kinderen zijn er in 2028 naar verwachting?
+795;(VALUE (85082NED (MSR 1050205 (WHERE (DIM TC 2036JJ00)))));eenouder gezinnen in 2036 prognose
+796;(VALUE (85082NED (MSR 1050205 (WHERE (DIM TC 2038JJ00)))));aantal gezinnen met een ouder in 2038
+797;(VALUE (85082NED (MSR A047481 (WHERE (DIM TC 2048JJ00)))));Verwachting eenkindshuishoudens in 2048
+798;(VALUE (85082NED (MSR 1050205 (WHERE (DIM TC 2031JJ00)))));Prognose gezinnen met een kind in 2031
+799;(VALUE (85082NED (MSR 1016030_2 (WHERE (DIM TC 2058JJ00)))));Hoeveel huidhoudens met kinderen verwachten we in 2058?
+800;(VALUE (85082NED (MSR 1017870 (WHERE (DIM TC 2051JJ00)))));Huishoudens met drie kinderen of meer in 2051
+801;(VALUE (85082NED (MSR 1015115 (WHERE (DIM TC 2047JJ00)))));aantal samenwonenden in 2047
+802;(VALUE (85082NED (MSR M000114 (WHERE (DIM TC 2037JJ00)))));Grootte huishoudens in 2037
+802;(VALUE (85082NED (MSR M000114 (WHERE (DIM TC 2037JJ00)))));Hoe groot zijn huishoudens gemiddeld in 2037
+803;(VALUE (85082NED (MSR 1011600 (WHERE (DIM TC 2059JJ00)))));Aantal grote huishoudens in 2059
+803;(VALUE (85082NED (MSR 1011600 (WHERE (DIM TC 2059JJ00)))));verwachting aantal grote huishoudens in 2059
+804;(VALUE (85082NED (MSR 1050215 (WHERE (DIM TC 2058JJ00)))));Prognose huishoudens met een ouder en meer dan drie kinderen in 2058
+805;(VALUE (85082NED (MSR 1050001_2 (WHERE (DIM TC 2047JJ00)))));Verwachting aantal personen in een huishouden in 2047
+806;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM VormenVanJeugdzorg A045560)))));Relatieve hoeveelheid jeugd in de zorg
+806;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM VormenVanJeugdzorg A045560)))));jeugdzorg relatief
+806;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM VormenVanJeugdzorg A045560)))));totaal percentage jeugd in de zorg
+807;(VALUE (85099NED (MSR A045561 (WHERE (DIM GC JZ02) (DIM TC 2021HJ01) (DIM VormenVanJeugdzorg A045530)))));Pleegkinderen in Friesland 1e helft van 2021
+807;(VALUE (85099NED (MSR A045561 (WHERE (DIM GC JZ02) (DIM TC 2021HJ01) (DIM VormenVanJeugdzorg A045530)))));Aantal pleegouders in 1e helft van 2021 in Fryslân
+809;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM GC GM1930)))));Percentage jeugdzorgbehoevende in Nissewaard
+811;(VALUE (85099NED (MSR A045561 (WHERE (DIM TC 2021HJ02)))));Hoeveel jongeren kregen jeugdzorg in 2e helft van 2021?
+812;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM GC GM0342) (DIM TC 2021JJ00) (DIM VormenVanJeugdzorg A045531)))));Gezinsgerichte jeugdzorg in Soest in 2021
+814;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM GC GM0383)))));Hoeveel jongeren zijn zorgbehoevend in Castricum?
+814;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM GC GM0383)))));aantal jongeren met jeugdzorg in castricum
+815;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM VormenVanJeugdzorg A027917)))));Relatief aantal jongeren met zorg buiten wijkteam
+816;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM TC 2022HJ01)))));Percentage jongeren met jeugdzorg in de eerste helft van 2022
+817;(VALUE (85099NED (MSR A045561 (WHERE (DIM VormenVanJeugdzorg A045530) (DIM TC 2021HJ02) (DIM GC JZ28)))));Kinderen in pleegzorg 2e helft 2021 in centraal gelderland
+818;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM TC 2021HJ01) (DIM GC JZ34) (DIM VormenVanJeugdzorg A027919)))));aantal jongeren in jeugdbescherming in west brabant oost begin 2021
+819;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM TC 2021JJ00)))));Percentage jongeren die zorg nodig hebben in Nederland in 2021
+819;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM TC 2021JJ00)))));relatief aantal jongeren met nodige jeugdzorg 2021
+819;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM TC 2021JJ00)))));procentueel aantal jongeren in de jeugdzorg in 2021
+820;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM TC 2021HJ02) (DIM GC GM1731) (DIM VormenVanJeugdzorg A045533)))));Jeugdzorg met verblijf in midden drenthe in 2e helft 2021
+821;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM VormenVanJeugdzorg A045553) (DIM TC 2021HJ01)))));pgb zorg voor jeugd in eerste helft 2021
+821;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM VormenVanJeugdzorg A045553) (DIM TC 2021HJ01)))));aantal pgb jongeren 1e helft 2021
+822;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM VormenVanJeugdzorg A027918) (DIM TC 2022HJ01)))));Jeugdzorg uithuisgeplaatsten 1e helft 2022
+822;(VALUE (85099NED (MSR M006810_3 (WHERE (DIM VormenVanJeugdzorg A027918) (DIM TC 2022HJ01)))));aantal jongeren in de zorg met verblijf eind 2022
+823;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM VormenVanJeugdzorg T001203)))));jeugdzorg in natura
+823;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM VormenVanJeugdzorg T001203)))));hoeveel jongeren ontvangen zorg in natura?
+824;(VALUE (85099NED (MSR A045561 (WHERE (DIM VormenVanJeugdzorg T001203) (DIM TC 2021HJ02)))));Hoeveel jongeren ontvingen zorg in natura eind 2021?
+824;(VALUE (85099NED (MSR A045561 (WHERE (DIM VormenVanJeugdzorg T001203) (DIM TC 2021HJ02)))));jeugdzorg natura zorg tweede helft 2021
+825;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM TC 2021HJ01)))));Jongeren in de jeugdzorg begin 2021
+825;(VALUE (85099NED (MSR M006810_2 (WHERE (DIM TC 2021HJ01)))));hoeveelheid zorgbehoevende jeugd in de eerste helft van 2021
+827;(VALUE (85224NED (MSR 2018700_3 (WHERE (DIM TC 2017JJ00)))));Werkende LBO'ers in 2017
+827;(VALUE (85224NED (MSR 2018700_3 (WHERE (DIM TC 2017JJ00)))));hoeveel laag opgeleiden werken er in 2017?
+827;(VALUE (85224NED (MSR 2018700_3 (WHERE (DIM TC 2017JJ00)))));Werkenden zonder opleiding 2017
+829;(VALUE (85224NED (MSR 2018700_2 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2022KW04)))));Hoeveel laag opgeleiden werken er in Nederland eind 2022?
+832;(VALUE (85224NED (MSR 3001080 (WHERE (DIM TC 2020KW01) (DIM SeizoenEnWerkdagcorrectie A050903)))));Arbeidsgerechtigden niet zoekend naar werk in het eerste kwartaal van 2020
+833;(VALUE (85224NED (MSR 2021320_2 (WHERE (DIM TC 2016KW02)))));Totaal aantal arbeidskrachten 2e kwartaal van 2016
+834;(VALUE (85224NED (MSR 3001080 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501) (DIM TC 2020KW01)))));Niet zoekende werknemers begin 2020
+835;(VALUE (85224NED (MSR 2021209_2 (WHERE (DIM TC 2015KW03) (DIM SeizoenEnWerkdagcorrectie A042501)))));Werknemers deeltijd 2015 derde kwark
+836;(VALUE (85224NED (MSR M001906 (WHERE (DIM TC 2015KW03) (DIM SeizoenEnWerkdagcorrectie A050903)))));aantal werklozen herfst 2015
+836;(VALUE (85224NED (MSR M001906 (WHERE (DIM TC 2015KW03) (DIM SeizoenEnWerkdagcorrectie A050903)))));werkloosheid 3e kwartaal 2015
+837;(VALUE (85224NED (MSR 2021320_2 (WHERE (DIM TC 2022KW01)))));Aantal normale werknemers 2022 1e kwartaal
+837;(VALUE (85224NED (MSR 2021320_2 (WHERE (DIM TC 2022KW01)))));hoeveel werkenden waren er begin 2022?
+838;(VALUE (85224NED (MSR 2021209_2 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501) (DIM TC 2019KW02)))));Hoeveel deeltijdmedewerkers waren er in kwartaal 2 van 2019?
+839;(VALUE (85224NED (MSR M001906 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2017KW04)))));werklozen vierde kwart 2017
+839;(VALUE (85224NED (MSR M001906 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2017KW04)))));aantal werklozen eind 2014
+840;(VALUE (85224NED (MSR 3000800_2 (WHERE (DIM TC 2020KW01) (DIM SeizoenEnWerkdagcorrectie A050903)))));Hoeveel werklozen waren er in het 1e kwartaal van 2020
+840;(VALUE (85224NED (MSR 3000800_2 (WHERE (DIM TC 2020KW01) (DIM SeizoenEnWerkdagcorrectie A050903)))));werklozen lente 2020
+841;(VALUE (85264NED (MSR 2021380_2 (WHERE (DIM Leeftijd 53900) (DIM HoogstBehaaldOnderwijsniveau 2018700) (DIM TC 2017KW04) (DIM Geslacht T001038)))));55 tot 65-jarige zzp'ers
+842;(VALUE (85264NED (MSR 2021340 (WHERE (DIM Leeftijd 70600) (DIM HoogstBehaaldOnderwijsniveau 2018790) (DIM TC 2018KW02)))));Hoeveel jongere flexwerkers waren er in het tweede kwartaal van 2018 met een hbo diploma
+842;(VALUE (85264NED (MSR 2021340 (WHERE (DIM Leeftijd 70600) (DIM HoogstBehaaldOnderwijsniveau 2018790) (DIM TC 2018KW02)))));
+843;(VALUE (85264NED (MSR 3000790_2 (WHERE (DIM TC 2022KW03)))));hoe groot was de beroepsbevolking in het derde kwartaal van 2022?
+843;(VALUE (85264NED (MSR 3000790_2 (WHERE (DIM TC 2022KW03)))));Grootte beroepsbevolking 3e kwart 2022
+843;(VALUE (85264NED (MSR 3000790_2 (WHERE (DIM TC 2022KW03)))));Aantal arbeidsgeschikte mensen herfst 2022
+844;(VALUE (85264NED (MSR M001796 (WHERE (DIM TC 2022KW02) (DIM HoogstBehaaldOnderwijsniveau 2018740) (DIM Geslacht T001038) (DIM Leeftijd 70700)))));Hoeveel MBO'ers werkten er in de zomer van 2022 in totaal 30 tot 35 jaar
+844;(VALUE (85264NED (MSR M001796 (WHERE (DIM TC 2022KW02) (DIM HoogstBehaaldOnderwijsniveau 2018740) (DIM Geslacht T001038) (DIM Leeftijd 70700)))));percentage laagopgeleide werkenden tweede kwartaal 2022 30 tot 35 jaar
+845;(VALUE (85264NED (MSR 2021430 (WHERE (DIM HoogstBehaaldOnderwijsniveau 2018820) (DIM Leeftijd 70900) (DIM TC 2015JJ00)))));Hoeveel mensen werken er als ZZP'er in de leeftijdscategorie van 40 tot 45 jaar in 2015?
+845;(VALUE (85264NED (MSR 2021430 (WHERE (DIM HoogstBehaaldOnderwijsniveau 2018820) (DIM Leeftijd 70900) (DIM TC 2015JJ00)))));aantal zelfstandigen 2015 40 tot 45-jarigen
+848;(VALUE (85302NED (MSR M002334 (WHERE (DIM TC 2021JJ00) (DIM Vakantiekenmerken A046401)))));Hoeveel vakantiedagen boekten mensen gemiddeld met een pakketreis
+848;(VALUE (85302NED (MSR M002334 (WHERE (DIM TC 2021JJ00) (DIM Vakantiekenmerken A046401)))));hoeveel vakantiedagen bij een samengestelde reis
+849;(VALUE (85302NED (MSR M004417 (WHERE (DIM BestemmingEnSeizoen A045879) (DIM TC 2021JJ00) (DIM Marges MOG0095) (DIM Vakantiekenmerken A046394)))));Uitgaven lange wintervakanties bovengrens
+850;(VALUE (85302NED (MSR D004645 (WHERE (DIM BestemmingEnSeizoen T001047) (DIM Vakantiekenmerken A046360) (DIM TC 2021JJ00)))));Hoeveel mensen verbleven er op vakantie in een huisje in 2021?
+850;(VALUE (85302NED (MSR D004645 (WHERE (DIM BestemmingEnSeizoen T001047) (DIM Vakantiekenmerken A046360) (DIM TC 2021JJ00)))));aantal vakanties met een stacaravan in 2021
+851;(VALUE (85302NED (MSR M001957 (WHERE (DIM BestemmingEnSeizoen A045878)))));Aantal overnachtingen in het zomerseizoen
+851;(VALUE (85302NED (MSR M001957 (WHERE (DIM BestemmingEnSeizoen A045878)))));gemiddeld aantal vakantiedagen in de zomer
+855;(VALUE (85302NED (MSR M004417 (WHERE (DIM Marges MW00000) (DIM Vakantiekenmerken A046371)))));Familieuitgaven op vakantie
+855;(VALUE (85302NED (MSR M004417 (WHERE (DIM Marges MW00000) (DIM Vakantiekenmerken A046371)))));vakantieuitgaven van families
+855;(VALUE (85302NED (MSR M004417 (WHERE (DIM Marges MW00000) (DIM Vakantiekenmerken A046371)))));kosten vakantie met familie
+856;(VALUE (85302NED (MSR M004993 (WHERE (DIM TC 2021JJ00) (DIM Marges MW00000)))));Gemiddeld aantal overnachtingen op vakanties in 2021
+856;(VALUE (85302NED (MSR M004993 (WHERE (DIM TC 2021JJ00) (DIM Marges MW00000)))));aantal overnachtingen per persoon op vakantie in 2021
+857;(VALUE (85302NED (MSR M001860 (WHERE (DIM BestemmingEnSeizoen L999996) (DIM Vakantiekenmerken A046360)))));uitgaven vakanties naar het buitenland in een stacaravan
+857;(VALUE (85302NED (MSR M001860 (WHERE (DIM BestemmingEnSeizoen L999996) (DIM Vakantiekenmerken A046360)))));Hoeveel kost een vakantie in een vakantiehuis in het buitenland gemiddeld?
+858;(VALUE (85302NED (MSR D006211_2 (WHERE (DIM Vakantiekenmerken A046402) (DIM BestemmingEnSeizoen A045878)))));Hoeveel overnachtingen in accomodaties in het zomerseizoen
+859;(VALUE (85302NED (MSR M001860 (WHERE (DIM TC 2021JJ00) (DIM Vakantiekenmerken A018981)))));Uitgaven vakanties met de trein in 2021
+859;(VALUE (85302NED (MSR M001860 (WHERE (DIM TC 2021JJ00) (DIM Vakantiekenmerken A018981)))));hoeveel gaven mensen gemiddeld uit op een vakantie met de trein in 2021?
+859;(VALUE (85302NED (MSR M001860 (WHERE (DIM TC 2021JJ00) (DIM Vakantiekenmerken A018981)))));uitgaven treinvakanties 2021
+860;(VALUE (85302NED (MSR D004645 (WHERE (DIM BestemmingEnSeizoen T001047) (DIM TC 2021JJ00) (DIM Vakantiekenmerken A046391) (DIM Marges MW00000)))));Overig aantal vakanties in 2021
+861;(VALUE (85302NED (MSR M003533_2 (WHERE (DIM Marges MBG0095) (DIM BestemmingEnSeizoen A045879)))));Aantal vakantiedagen bovengrens in het winterseizoen
+862;(VALUE (85302NED (MSR M003533_2 (WHERE (DIM BestemmingEnSeizoen A045879) (DIM Marges MOG0095) (DIM Vakantiekenmerken A046402) (DIM TC 2021JJ00)))));Totaal aantal vakantiedagen in het winterseizoen waarbij alleen de accommodatie was geregeld in 2021 ondergrens
+863;(VALUE (85302NED (MSR M005005_2 (WHERE (DIM Vakantiekenmerken A047151) (DIM TC 2021JJ00)))));Hoeveel mensen gingen er met het vliegtuig op vakantie in 2021?
+863;(VALUE (85302NED (MSR M005005_2 (WHERE (DIM Vakantiekenmerken A047151) (DIM TC 2021JJ00)))));aantal personen op vliegvakantie in 2021
+863;(VALUE (85302NED (MSR M005005_2 (WHERE (DIM Vakantiekenmerken A047151) (DIM TC 2021JJ00)))));aantal vliegvakanties in 2021?
+864;(VALUE (85302NED (MSR M004957 (WHERE (DIM Vakantiekenmerken A046361) (DIM BestemmingEnSeizoen T001047)))));Hoeveel mensen gingen er op vakantie in een appartement?
+864;(VALUE (85302NED (MSR M004957 (WHERE (DIM Vakantiekenmerken A046361) (DIM BestemmingEnSeizoen T001047)))));aantal appartementaccomodaties op vakantie
+864;(VALUE (85302NED (MSR M004957 (WHERE (DIM Vakantiekenmerken A046361) (DIM BestemmingEnSeizoen T001047)))));vakantie in een appartement
+865;(VALUE (85302NED (MSR M001844 (WHERE (DIM Marges MW00000)))));Hoeveel vakantiedagen hebben Nederlanders gemiddeld?
+865;(VALUE (85302NED (MSR M001844 (WHERE (DIM Marges MW00000)))));gemiddeld aantal vakantiedagen per persoon
+865;(VALUE (85302NED (MSR M001844 (WHERE (DIM Marges MW00000)))));hoe lang gaan mensen gemiddeld op vakantie?
+866;(VALUE (85318NED (MSR T001036 (WHERE (DIM WijkenEnBuurten WK036329)))));Inwonersaantal Dapperbuurt Amsterdam
+866;(VALUE (85318NED (MSR T001036 (WHERE (DIM WijkenEnBuurten WK036329)))));aantal inwoners Dapperbuurt
+866;(VALUE (85318NED (MSR T001036 (WHERE (DIM WijkenEnBuurten WK036329)))));hoeveel mensen wonen er in de Dapperbuurt?
+867;(VALUE (85318NED (MSR ZW25808 (WHERE (DIM WijkenEnBuurten GM0200)))));Hoeveel oude woningen zijn er in Apeldoorn?
+867;(VALUE (85318NED (MSR ZW25808 (WHERE (DIM WijkenEnBuurten GM0200)))));aantal woningen ouder dan 2000 in Apeldoorn
+867;(VALUE (85318NED (MSR ZW25808 (WHERE (DIM WijkenEnBuurten GM0200)))));Apeldoorn aantal woningen van voor 2000
+868;(VALUE (85318NED (MSR 10680 (WHERE (DIM WijkenEnBuurten BU03631001)))));Hoeveel jongeren wonen er in de alfa driehoek in Amsterdam? Aantal kinderen Amsterdam alpha driehoek
+870;(VALUE (85318NED (MSR 1050015 (WHERE (DIM WijkenEnBuurten WK036373)))));Hoeveel eenpersoonshuishoudens zijn er in Waterland?
+870;(VALUE (85318NED (MSR 1050015 (WHERE (DIM WijkenEnBuurten WK036373)))));alleenstaanden Watland
+871;(VALUE (85318NED (MSR 4000 (WHERE (DIM WijkenEnBuurten BU02000502)))));Hoeveel vrouwen leven er in Matenhorst?
+871;(VALUE (85318NED (MSR 4000 (WHERE (DIM WijkenEnBuurten BU02000502)))));aantal vrouwen woonachtig in Matenhorst
+871;(VALUE (85318NED (MSR 4000 (WHERE (DIM WijkenEnBuurten BU02000502)))));vrouwen matenhorst
+872;(VALUE (85318NED (MSR 2012657_2 (WHERE (DIM WijkenEnBuurten BU01411603)))));Hoeveel allochtonen wonen er in Ossenkoppelerhoek midden noord?
+872;(VALUE (85318NED (MSR 2012657_2 (WHERE (DIM WijkenEnBuurten BU01411603)))));mensen met een migratieachtergrond in Ossenkoppelerhoek midden noord
+873;(VALUE (85318NED (MSR 1050 (WHERE (DIM WijkenEnBuurten WK030718)))));Aantal weduwen in de Berg Noord
+873;(VALUE (85318NED (MSR 1050 (WHERE (DIM WijkenEnBuurten WK030718)))));aantal personen met overleden partners in Berg Noord
+874;(VALUE (85318NED (MSR 80200 (WHERE (DIM WijkenEnBuurten BU01411501)))));Hoeveel bejaarden wonen er in Wonde en omgeving?
+874;(VALUE (85318NED (MSR 80200 (WHERE (DIM WijkenEnBuurten BU01411501)))));Aantal 65-plussers Wonde
+875;(VALUE (85318NED (MSR D001045 (WHERE (DIM WijkenEnBuurten BU01970105)))));Hoeveel elektrische auto's zijn er in Ijzerlo kern?
+875;(VALUE (85318NED (MSR D001045 (WHERE (DIM WijkenEnBuurten BU01970105)))));Aantal dieselauto's ijzerlo-kern
+876;(VALUE (85318NED (MSR 4000 (WHERE (DIM WijkenEnBuurten BU00590103)))));Hoeveel vrouwen wonen er in Augustinusga
+876;(VALUE (85318NED (MSR 4000 (WHERE (DIM WijkenEnBuurten BU00590103)))));aantal vrouwen augustinusga
+877;(VALUE (85318NED (MSR M003039 (WHERE (DIM WijkenEnBuurten BU03639406)))));Wat is de woningswaarde in k-buurt Zuidoost in Amsterdam?
+878;(VALUE (85318NED (MSR A047047 (WHERE (DIM WijkenEnBuurten BU03580000)))));Hoeveel huurwoningen zijn er in het centrum van Aalsmeer?
+879;(VALUE (85318NED (MSR 80200 (WHERE (DIM WijkenEnBuurten BU01069916)))));Hoeveel 65 plussers leven er in Schieven
+879;(VALUE (85318NED (MSR 80200 (WHERE (DIM WijkenEnBuurten BU01069916)))));aantal ouderen in Schieven
+880;(VALUE (85318NED (MSR H008751 (WHERE (DIM WijkenEnBuurten BU04840813)))));Hoeveel niet westerse surinamers leven er in Wagenburg?
+880;(VALUE (85318NED (MSR H008751 (WHERE (DIM WijkenEnBuurten BU04840813)))));surinaamse allochtonen in Wagenburg
+881;(VALUE (85318NED (MSR A047040 (WHERE (DIM WijkenEnBuurten BU03620701)))));Hoeveelheid wateroppervlak in de middenpolder
+882;(VALUE (85318NED (MSR A018943_4 (WHERE (DIM WijkenEnBuurten WK003401)))));Hoeveel auto's hebben mensen in Almere Haven naar oppervlakte?
+882;(VALUE (85318NED (MSR A018943_4 (WHERE (DIM WijkenEnBuurten WK003401)))));Aantal auto's in Almere Centrum haven
+883;(VALUE (85318NED (MSR 1020 (WHERE (DIM WijkenEnBuurten WK030730)))));Aantal getrouwde personen in Amersfoort Vathorst De Bron
+884;(VALUE (85318NED (MSR 1010 (WHERE (DIM WijkenEnBuurten BU01060703)))));Hoeveel vrijgezellen leven er in De kleuven in Assen? Aantal ongetrouwden in de kleuven
+884;(VALUE (85318NED (MSR 1010 (WHERE (DIM WijkenEnBuurten BU01060703)))));ondehuwden De Kleuven
+885;(VALUE (85318NED (MSR A047040 (WHERE (DIM WijkenEnBuurten BU00342602)))));Hoeveel water is er in Noord- midden Kruidenwijk in Almere?
+885;(VALUE (85318NED (MSR A047040 (WHERE (DIM WijkenEnBuurten BU00342602)))));Oppervlaktewater kruidenwijk noord-midden
+886;(VALUE (85323NED (MSR M000352 (WHERE (DIM PrognoseInterval MW00000)))));Bevolkingsgroei
+886;(VALUE (85323NED (MSR M000352 (WHERE (DIM PrognoseInterval MW00000)))));hoeveel groeit de bevolking?
+886;(VALUE (85323NED (MSR M000352 (WHERE (DIM PrognoseInterval MW00000)))));Prognose bevolking
+886;(VALUE (85323NED (MSR M000352 (WHERE (DIM PrognoseInterval MW00000)))));groei aantal nederlanders
+887;(VALUE (85323NED (MSR 3000_2 (WHERE (DIM TC 2057JJ00)))));Levensverwachting oudere mannen in 2057
+887;(VALUE (85323NED (MSR 3000_2 (WHERE (DIM TC 2057JJ00)))));Wat is de verwachte leeftijd van overleiden voor vijfenzestigjarige mannen in 2057?
+887;(VALUE (85323NED (MSR 3000_2 (WHERE (DIM TC 2057JJ00)))));prognose leeftijd mannen 65 2057
+891;(VALUE (85323NED (MSR 3000_1 (WHERE (DIM TC 2068JJ00)))));Levensverwachting mannen in 2068
+892;(VALUE (85323NED (MSR M000168 (WHERE (DIM TC 2067JJ00)))));Hoeveel mensen emigreren er in 2067?
+893;(VALUE (85323NED (MSR 4000_2 (WHERE (DIM TC 2026JJ00) (DIM PrognoseInterval MOG0095)))));Hoe oud worden vrouwen van 65 jaar in 2026 volgens de ondergrens?
+893;(VALUE (85323NED (MSR 4000_2 (WHERE (DIM TC 2026JJ00) (DIM PrognoseInterval MOG0095)))));ondergrens levensverwachting 65-plus vrouwen
+894;(VALUE (85323NED (MSR 80200_1 (WHERE (DIM TC 2047JJ00) (DIM PrognoseInterval MOG0095)))));ondergrens aantal bejaarden in 2047
+895;(VALUE (85323NED (MSR D000128 (WHERE (DIM PrognoseInterval MW00000)))));Hoeveel kinderen worden er in de toekomst geboren?
+895;(VALUE (85323NED (MSR D000128 (WHERE (DIM PrognoseInterval MW00000)))));Aantal baby's in de toekomst
+895;(VALUE (85323NED (MSR D000128 (WHERE (DIM PrognoseInterval MW00000)))));verwachting hoeveelheid kinderen
+896;(VALUE (85323NED (MSR M000167 (WHERE (DIM PrognoseInterval MOG0095)))));Ondergrens aantal immigranten
+896;(VALUE (85323NED (MSR M000167 (WHERE (DIM PrognoseInterval MOG0095)))));wat is de ondergrens van het aantal immigraten in de toekomst?
+897;(VALUE (85323NED (MSR M000134 (WHERE (DIM TC 2063JJ00) (DIM PrognoseInterval MW00000)))));Overleidensprognose 2063
+897;(VALUE (85323NED (MSR M000134 (WHERE (DIM TC 2063JJ00) (DIM PrognoseInterval MW00000)))));verwachting aantal sterfgevallen in 2063
+898;(VALUE (85323NED (MSR 4000_1 (WHERE (DIM TC 2044JJ00)))));Levensverwachting van vrouwen in 2044
+898;(VALUE (85323NED (MSR 4000_1 (WHERE (DIM TC 2044JJ00)))));Hoe oud worden vrouwen in 2044?
+899;(VALUE (85323NED (MSR M000134 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2044JJ00)))));Sterfte bovengrens in 2044
+899;(VALUE (85323NED (MSR M000134 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2044JJ00)))));Prognose overledenen in 2044
+899;(VALUE (85323NED (MSR M000134 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2044JJ00)))));Hoeveelheid sterfgevallen in 2044
+900;(VALUE (85323NED (MSR M005167 (WHERE (DIM PrognoseInterval MW00000)))));Verwachtin aantal geboorten
+900;(VALUE (85323NED (MSR M005167 (WHERE (DIM PrognoseInterval MW00000)))));prognose vruchtbaarheidscijfer
+900;(VALUE (85323NED (MSR M005167 (WHERE (DIM PrognoseInterval MW00000)))));Hoeveel baby's worden er geboren
+900;(VALUE (85323NED (MSR M005167 (WHERE (DIM PrognoseInterval MW00000)))));aantal geboorden in de toekomst
+901;(VALUE (85323NED (MSR D000117 (WHERE (DIM TC 2037JJ00) (DIM PrognoseInterval MOG0095)))));Wat is de ondergrens van de groene druk in 2037?
+901;(VALUE (85323NED (MSR D000117 (WHERE (DIM TC 2037JJ00) (DIM PrognoseInterval MOG0095)))));ondergrens verwachting relatieve hoeveel jongeren ten opzichte van ouderen in 2037
+902;(VALUE (85323NED (MSR M000352 (WHERE (DIM TC 2041JJ00)))));Prognose bevolking 2041
+902;(VALUE (85323NED (MSR M000352 (WHERE (DIM TC 2041JJ00)))));Hoeveel mensen wonen er in Nederland in 2041?
+902;(VALUE (85323NED (MSR M000352 (WHERE (DIM TC 2041JJ00)))));Aantal mensen 2041
+902;(VALUE (85323NED (MSR M000352 (WHERE (DIM TC 2041JJ00)))));bevolkingsgroei 2041
+903;(VALUE (85323NED (MSR 4000_2 (WHERE (DIM TC 2065JJ00)))));Levensverwachting van vrouwen ouder dan 65 jaar in 2065
+903;(VALUE (85323NED (MSR 4000_2 (WHERE (DIM TC 2065JJ00)))));Prognose levensverwachting oudere vrouwen in 2065
+904;(VALUE (85323NED (MSR 80200_1 (WHERE (DIM PrognoseInterval MOG0095)))));Wat is de ondergrens van het aantal bejaarden in de toekomst?
+904;(VALUE (85323NED (MSR 80200_1 (WHERE (DIM PrognoseInterval MOG0095)))));Prognose ondergrens aantal 65-plussers
+905;(VALUE (85323NED (MSR M005167 (WHERE (DIM TC 2043JJ00) (DIM PrognoseInterval MBG0095)))));Wat is het vruchtbaarheidscijfer in 2043
+905;(VALUE (85323NED (MSR M005167 (WHERE (DIM TC 2043JJ00) (DIM PrognoseInterval MBG0095)))));neem de bovengrens
+906;(VALUE (85397NED (MSR D000227 (WHERE (DIM HerkomstlandHoofdkostwinner H008533) (DIM GeboortelandOudersHoofdkostwinner T001638) (DIM TC 2011JJ00)))));Hoeveel Afghaanse huishoudens verdienden er onder modaal?
+907;(VALUE (85397NED (MSR M000222 (WHERE (DIM GeboortelandOudersHoofdkostwinner T001638)))));Totaal inkomen
+907;(VALUE (85397NED (MSR M000222 (WHERE (DIM GeboortelandOudersHoofdkostwinner T001638)))));Hoeveel verdienen Nederlanders
+907;(VALUE (85397NED (MSR M000222 (WHERE (DIM GeboortelandOudersHoofdkostwinner T001638)))));gemiddelde inkomen Nederlanders
+907;(VALUE (85397NED (MSR M000222 (WHERE (DIM GeboortelandOudersHoofdkostwinner T001638)))));modaal inkomen
+908;(VALUE (85397NED (MSR M000220 (WHERE (DIM HerkomstlandHoofdkostwinner H008634)))));Gemiddeld inkomen van mensen uit Iran
+908;(VALUE (85397NED (MSR M000220 (WHERE (DIM HerkomstlandHoofdkostwinner H008634)))));inkomen van Iraniërs
+911;(VALUE (85397NED (MSR M000220 (WHERE (DIM GeboortelandOudersHoofdkostwinner A051777)))));Gemiddeld inkomen Nederlanders met een ouder met een migratieachtergrond
+911;(VALUE (85397NED (MSR M000220 (WHERE (DIM GeboortelandOudersHoofdkostwinner A051777)))));Koopkracht nederlanders met een ouder uit het buitenland
+912;(VALUE (85397NED (MSR M000939 (WHERE (DIM TC 2016JJ00)))));Gemiddeld vermogen in 2016
+912;(VALUE (85397NED (MSR M000939 (WHERE (DIM TC 2016JJ00)))));mediaan vermogen 2016
+912;(VALUE (85397NED (MSR M000939 (WHERE (DIM TC 2016JJ00)))));Hoeveel spaargeld 2016?
+913;(VALUE (85397NED (MSR 1050010 (WHERE (DIM HerkomstlandHoofdkostwinner H007933) (DIM GeboortelandOudersHoofdkostwinner A051735)))));Hoeveel huishoudens van Europesen zijn er in Nederland?
+913;(VALUE (85397NED (MSR 1050010 (WHERE (DIM HerkomstlandHoofdkostwinner H007933) (DIM GeboortelandOudersHoofdkostwinner A051735)))));Aantal Europese houshoudens
+914;(VALUE (85397NED (MSR M000220 (WHERE (DIM TC 2020JJ00) (DIM GeboortelandOudersHoofdkostwinner A051778)))));Koopkracht van eerste generatie migranten in 2020
+914;(VALUE (85397NED (MSR M000220 (WHERE (DIM TC 2020JJ00) (DIM GeboortelandOudersHoofdkostwinner A051778)))));Hoeveel besteedbaar inkomen hadden mensen met ouders van buiten Nederland gemiddeld in 2020?
+915;(VALUE (85397NED (MSR M000222 (WHERE (DIM HerkomstlandHoofdkostwinner H008552)))));Standaardinkomen Belgen
+915;(VALUE (85397NED (MSR M000222 (WHERE (DIM HerkomstlandHoofdkostwinner H008552)))));Gemiddeld inkomen België
+915;(VALUE (85397NED (MSR M000222 (WHERE (DIM HerkomstlandHoofdkostwinner H008552)))));Gestandaardiseerd gemiddeld inkomen van Belgen
+916;(VALUE (85397NED (MSR M000222 (WHERE (DIM TC 2011JJ00)))));Gemiddeld inkomen in 2011
+916;(VALUE (85397NED (MSR M000222 (WHERE (DIM TC 2011JJ00)))));Hoeveel verdiende een persoon gemiddeld in 2011?
+917;(VALUE (85397NED (MSR M000939 (WHERE (DIM TC 2016JJ00) (DIM HerkomstlandHoofdkostwinner H008632)))));Hoeveel vermogen heeft een Indiër gemiddeld in 2016?
+917;(VALUE (85397NED (MSR M000939 (WHERE (DIM TC 2016JJ00) (DIM HerkomstlandHoofdkostwinner H008632)))));Mediaan vermogen Nederlandse Indiërs in 2016
+918;(VALUE (85397NED (MSR M000220 (WHERE (DIM TC 2016JJ00)))));Gemiddeld inkomen in 2016
+918;(VALUE (85397NED (MSR M000220 (WHERE (DIM TC 2016JJ00)))));koopkracht in 2016
+918;(VALUE (85397NED (MSR M000220 (WHERE (DIM TC 2016JJ00)))));wat was het gemiddeld besteedbaar inkomen in 2016?
+919;(VALUE (85397NED (MSR M000939 (WHERE (DIM TC 2017JJ00) (DIM GeboortelandOudersHoofdkostwinner A051742)))));Gemiddeld spaargeld van gezinnen buiten Nederland in 2017
+920;(VALUE (85397NED (MSR M000939 (WHERE (DIM GeboortelandOudersHoofdkostwinner A051735) (DIM HerkomstlandHoofdkostwinner H008751)))));Mediaan vermogen van Surinamers
+920;(VALUE (85397NED (MSR M000939 (WHERE (DIM GeboortelandOudersHoofdkostwinner A051735) (DIM HerkomstlandHoofdkostwinner H008751)))));gemiddels vermogen Surinamers
+921;(VALUE (85397NED (MSR M000220 (WHERE (DIM TC 2014JJ00) (DIM GeboortelandOudersHoofdkostwinner A051736) (DIM HerkomstlandHoofdkostwinner H007119)))));Gemiddeld inkomen van Nederlandsers uit de Cariben in 2014
+922;(VALUE (85397NED (MSR D000227 (WHERE (DIM HerkomstlandHoofdkostwinner H008533) (DIM GeboortelandOudersHoofdkostwinner A051742)))));Aantal afghaanse huishoudens met een laag inkomen
+923;(VALUE (85397NED (MSR D000227 (WHERE (DIM TC 2014JJ00) (DIM HerkomstlandHoofdkostwinner H008747) (DIM GeboortelandOudersHoofdkostwinner T001638)))));Lage inkomens per huishouden van Somaliërs
+924;(VALUE (85397NED (MSR M000222 (WHERE (DIM GeboortelandOudersHoofdkostwinner T001638) (DIM TC 2016JJ00)))));Standaardinkomen in 2016
+924;(VALUE (85397NED (MSR M000222 (WHERE (DIM GeboortelandOudersHoofdkostwinner T001638) (DIM TC 2016JJ00)))));Totaal gestandaardiseerd inkomen in 2016
+925;(VALUE (85397NED (MSR 1050010 (WHERE (DIM GeboortelandOudersHoofdkostwinner A051742) (DIM TC 2011JJ00) (DIM HerkomstlandHoofdkostwinner H008800)))));Hoeveel gezinnen zijn er met ouders uit Europa in 2011
+925;(VALUE (85397NED (MSR 1050010 (WHERE (DIM GeboortelandOudersHoofdkostwinner A051742) (DIM TC 2011JJ00) (DIM HerkomstlandHoofdkostwinner H008800)))));aatal huishouden van ouders buiten Nederland in 2011
+926;(VALUE (85398NED (MSR M006777 (WHERE (DIM Geslacht 3000)))));Aantal mannen die onder gemiddeld verdienen
+926;(VALUE (85398NED (MSR M006777 (WHERE (DIM Geslacht 3000)))));aantal mannen onder modaal
+926;(VALUE (85398NED (MSR M006777 (WHERE (DIM Geslacht 3000)))));slecht verdienende mannen
+926;(VALUE (85398NED (MSR M006777 (WHERE (DIM Geslacht 3000)))));hoeveelheid mannen met een laag inkomen
+927;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM Geslacht 3000) (DIM GeboortelandOuders A051778) (DIM TC 2016JJ00) (DIM Herkomstland H008533)))));Aan Afghaanse mannen met een inkomen in Nederland
+927;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM Geslacht 3000) (DIM GeboortelandOuders A051778) (DIM TC 2016JJ00) (DIM Herkomstland H008533)))));Afghaanse Nederlanders met een inkomen
+928;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM Geslacht 4000) (DIM GeboortelandOuders A051735) (DIM TC 2011JJ00) (DIM Herkomstland H008592)))));Aantal Duitse vrouwen met een inkomen in Nederland
+929;(VALUE (85398NED (MSR M001974 (WHERE (DIM Herkomstland H008723) (DIM TC 2017JJ00) (DIM GeboortelandOuders A051777)))));Gemiddeld inkomen per persoon uit Roemenië in 2017
+930;(VALUE (85398NED (MSR M000222 (WHERE (DIM GeboortelandOuders T001638) (DIM Geslacht 4000)))));Totaal gemiddelde inkomen vrouwen
+930;(VALUE (85398NED (MSR M000222 (WHERE (DIM GeboortelandOuders T001638) (DIM Geslacht 4000)))));modale inkomen van vrouwen
+930;(VALUE (85398NED (MSR M000222 (WHERE (DIM GeboortelandOuders T001638) (DIM Geslacht 4000)))));modaal inkomen vrouwen
+931;(VALUE (85398NED (MSR M000222 (WHERE (DIM Herkomstland H008866) (DIM TC 2013JJ00) (DIM GeboortelandOuders A051742) (DIM Geslacht T001038)))));Gemiddeld inkomen van Nederlanders buiten Europa in 2013
+932;(VALUE (85398NED (MSR M006771 (WHERE (DIM GeboortelandOuders A051777) (DIM Herkomstland H007119) (DIM Geslacht 3000) (DIM TC 2017JJ00)))));aantal caribische mannen die economisch zelfstandig zijn in 2017
+933;(VALUE (85398NED (MSR M006771 (WHERE (DIM TC 2014JJ00)))));Hoeveel economisch zelfstandigen waren er in 2014?
+933;(VALUE (85398NED (MSR M006771 (WHERE (DIM TC 2014JJ00)))));hoeveel personen waren er financieel onafhankelijk in 2014
+933;(VALUE (85398NED (MSR M006771 (WHERE (DIM TC 2014JJ00)))));Percentage economisch onafhankelijke personen in 2014
+934;(VALUE (85398NED (MSR M000222 (WHERE (DIM Herkomstland H008634) (DIM Geslacht 4000) (DIM TC 2011JJ00)))));Gestandaardiseerd inkomen Iraanse vrouwen in 2011
+934;(VALUE (85398NED (MSR M000222 (WHERE (DIM Herkomstland H008634) (DIM Geslacht 4000) (DIM TC 2011JJ00)))));hoeveel verdienden vrouwen uit iran in 2011?
+935;(VALUE (85398NED (MSR M006777 (WHERE (DIM Geslacht 3000) (DIM GeboortelandOuders T001638) (DIM Herkomstland H008673) (DIM TC 2015JJ00)))));Hoeveel Marokkanen verdienden er weinig in 2015?
+935;(VALUE (85398NED (MSR M006777 (WHERE (DIM Geslacht 3000) (DIM GeboortelandOuders T001638) (DIM Herkomstland H008673) (DIM TC 2015JJ00)))));Onder modaal verdienende marokkanen in 2015
+936;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM Geslacht T001038) (DIM GeboortelandOuders A051735) (DIM Herkomstland H008597) (DIM TC 2018JJ00)))));Hoeveel mensen uit Eritrea hadden er een inkomen in 2018?
+937;(VALUE (85398NED (MSR M006774_1 (WHERE (DIM GeboortelandOuders A051735) (DIM Geslacht 4000) (DIM TC 2016JJ00) (DIM Herkomstland H008751)))));Gestandaardiseerd inkomen 2016 Surinaamse Nederlandse vrouwen
+937;(VALUE (85398NED (MSR M006774_1 (WHERE (DIM GeboortelandOuders A051735) (DIM Geslacht 4000) (DIM TC 2016JJ00) (DIM Herkomstland H008751)))));Standaardinkomen vrouwen Nederlandse Surinamers in 2016
+938;(VALUE (85398NED (MSR M001974 (WHERE (DIM Herkomstland H008800)))));Modaal inkomen Europa
+938;(VALUE (85398NED (MSR M001974 (WHERE (DIM Herkomstland H008800)))));gemiddeld inkomen verdieners uit Europa
+938;(VALUE (85398NED (MSR M001974 (WHERE (DIM Herkomstland H008800)))));gemiddeld inkomen Europese Nederlanders
+939;(VALUE (85398NED (MSR M006777 (WHERE (DIM Herkomstland H008592) (DIM TC 2012JJ00) (DIM Geslacht 3000) (DIM GeboortelandOuders A051777)))));Hoeveel Duitse mannen verdienen er onder modaal in 2012 in Nederland?
+939;(VALUE (85398NED (MSR M006777 (WHERE (DIM Herkomstland H008592) (DIM TC 2012JJ00) (DIM Geslacht 3000) (DIM GeboortelandOuders A051777)))));aantal Duitsers in Nederland met een laag inkomen in 2012
+940;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM TC 2014JJ00) (DIM Geslacht T001038) (DIM Herkomstland H008766) (DIM GeboortelandOuders A051778)))));Hoeveel Turken verdienden er geld in Nederland in 2014?
+940;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM TC 2014JJ00) (DIM Geslacht T001038) (DIM Herkomstland H008766) (DIM GeboortelandOuders A051778)))));In Nederland geboren Turken met inkomen in 2014
+941;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM Geslacht 3000) (DIM Herkomstland H008632)))));Hoeveel indonesiërs hebben er een inkomen in Nederland?
+941;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM Geslacht 3000) (DIM Herkomstland H008632)))));Aantal Indonesiërs met een inkomen
+942;(VALUE (85398NED (MSR M001974 (WHERE (DIM Geslacht T001038)))));Gemiddeld inkomen per Nederlander
+942;(VALUE (85398NED (MSR M001974 (WHERE (DIM Geslacht T001038)))));hoeveel verdient een Nederlander gemiddeld?
+942;(VALUE (85398NED (MSR M001974 (WHERE (DIM Geslacht T001038)))));modaal inkomen
+942;(VALUE (85398NED (MSR M001974 (WHERE (DIM Geslacht T001038)))));totaal gemiddeld inkomen
+943;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM GeboortelandOuders A051735) (DIM TC 2012JJ00)))));Hoeveel Nederlanders hadden een inkomen in 2012?
+943;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM GeboortelandOuders A051735) (DIM TC 2012JJ00)))));aantal Nederlanders met een inkomen in 2012
+943;(VALUE (85398NED (MSR M006774_2 (WHERE (DIM GeboortelandOuders A051735) (DIM TC 2012JJ00)))));verdienende nederlanders in 2012
+944;(VALUE (85398NED (MSR M006771 (WHERE (DIM TC 2013JJ00) (DIM Herkomstland H008597)))));Hoeveel Eritreeërs verdienen boven het bestaansminimum in 2013?
+944;(VALUE (85398NED (MSR M006771 (WHERE (DIM TC 2013JJ00) (DIM Herkomstland H008597)))));Financieel zelfstandigen uit Eritrea in 2013
+945;(VALUE (85398NED (MSR M006777 (WHERE (DIM Herkomstland H008718) (DIM Geslacht 3000) (DIM GeboortelandOuders A051778) (DIM TC 2015JJ00)))));hoeveel in Nederland geboren Polen hadden een laag inkomen in 2015?
+945;(VALUE (85398NED (MSR M006777 (WHERE (DIM Herkomstland H008718) (DIM Geslacht 3000) (DIM GeboortelandOuders A051778) (DIM TC 2015JJ00)))));Polen in Nederland met laag inkomen
+945;(VALUE (85398NED (MSR M006777 (WHERE (DIM Herkomstland H008718) (DIM Geslacht 3000) (DIM GeboortelandOuders A051778) (DIM TC 2015JJ00)))));Poolse Nederlanders die onder modaal verdienen
+946;(VALUE (85427NED (MSR D001601 (WHERE (DIM Landen L008527) (DIM TC 2020MM06) (DIM SITC A051811)))));balans export en import overige producten in 2020
+946;(VALUE (85427NED (MSR D001601 (WHERE (DIM Landen L008527) (DIM TC 2020MM06) (DIM SITC A051811)))));wat was de handselsbalans van niet-fysieke producten in 2020
+947;(VALUE (85427NED (MSR M001648 (WHERE (DIM Landen L007935) (DIM SITC T001082)))));Totaal doorvoer producten naar EU
+947;(VALUE (85427NED (MSR M001648 (WHERE (DIM Landen L007935) (DIM SITC T001082)))));Hoeveel producten voert Nederland door naar de EU?
+947;(VALUE (85427NED (MSR M001648 (WHERE (DIM Landen L007935) (DIM SITC T001082)))));aatal producten wederuitvoer richting Europa in euro
+948;(VALUE (85427NED (MSR M001637 (WHERE (DIM TC 2018JJ00) (DIM SITC A018809) (DIM Landen L008540)))));fabrieksproducten naar Anguilla in 2018
+948;(VALUE (85427NED (MSR M001637 (WHERE (DIM TC 2018JJ00) (DIM SITC A018809) (DIM Landen L008540)))));omzet uitvoer fabrieksgoederen naar Anguilla 2018
+949;(VALUE (85427NED (MSR D001636 (WHERE (DIM Landen L008538) (DIM TC 2019MM10) (DIM SITC A018524)))));Hoeveel voedsel exporteerde Nederland naar Andorra in okt 2019
+949;(VALUE (85427NED (MSR D001636 (WHERE (DIM Landen L008538) (DIM TC 2019MM10) (DIM SITC A018524)))));Goederenexport Andorra oktober 2019
+950;(VALUE (85427NED (MSR M001609 (WHERE (DIM TC 2019MM07) (DIM Landen L008531) (DIM SITC A018612)))));Verschil export olie naar Oceanië in 2019
+950;(VALUE (85427NED (MSR M001609 (WHERE (DIM TC 2019MM07) (DIM Landen L008531) (DIM SITC A018612)))));Groei export olie naar Oceanië vanuit Nederland
+950;(VALUE (85427NED (MSR M001609 (WHERE (DIM TC 2019MM07) (DIM Landen L008531) (DIM SITC A018612)))));Toename inkomsten export vet en olie naar Oceanië
+951;(VALUE (85429NED (MSR M001648 (WHERE (DIM TC 2019MM07) (DIM Landen L007935)))));Doorvoer van producten via Nederland naar Europa in juli 2019
+951;(VALUE (85429NED (MSR M001648 (WHERE (DIM TC 2019MM07) (DIM Landen L007935)))));Hoeveel producten scheepte Nederland door naar de EU in juli 2019?
+951;(VALUE (85429NED (MSR M001648 (WHERE (DIM TC 2019MM07) (DIM Landen L007935)))));Wederuitvoer producten naar EU juli 2019
+952;(VALUE (85429NED (MSR D001636 (WHERE (DIM SITC T001082)))));Hoeveel exporteert Nederland?
+952;(VALUE (85429NED (MSR D001636 (WHERE (DIM SITC T001082)))));Goederenexport Nederland
+952;(VALUE (85429NED (MSR D001636 (WHERE (DIM SITC T001082)))));Uitvoer producten
+952;(VALUE (85429NED (MSR D001636 (WHERE (DIM SITC T001082)))));Opbrengst Nederland export producten
+953;(VALUE (85429NED (MSR M001632 (WHERE (DIM Landen L008542) (DIM SITC A018524) (DIM TC 2019MM06)))));Export voedsel naar Argentinië in juni 2019
+953;(VALUE (85429NED (MSR M001632 (WHERE (DIM Landen L008542) (DIM SITC A018524) (DIM TC 2019MM06)))));Waarde uitvoer van vee naar Argentinië in juni 2019
+954;(VALUE (85429NED (MSR D001607 (WHERE (DIM SITC A018524)))));Hoeveel voedsel importeert Nederland?
+954;(VALUE (85429NED (MSR D001607 (WHERE (DIM SITC A018524)))));import dieren
+954;(VALUE (85429NED (MSR D001607 (WHERE (DIM SITC A018524)))));Import van eten in Nederland
+954;(VALUE (85429NED (MSR D001607 (WHERE (DIM SITC A018524)))));Hoeveel voedsel importeert nederland in euro's?
+955;(VALUE (85429NED (MSR M001608 (WHERE (DIM Landen L008542) (DIM TC 2020MM03) (DIM SITC A018528)))));Hoeveel drank en tabak importeerde Nederland vanuit Argentinië in maart 2020 ten opzichte van vorig jaar?
+955;(VALUE (85429NED (MSR M001608 (WHERE (DIM Landen L008542) (DIM TC 2020MM03) (DIM SITC A018528)))));Drankimport Argentinië maart 2020 relatief
+955;(VALUE (85429NED (MSR M001608 (WHERE (DIM Landen L008542) (DIM TC 2020MM03) (DIM SITC A018528)))));Groei invoer tabak vanuit Argentinië in maart 2020
+956;(VALUE (37772ned (MSR A028293_1 (WHERE (DIM TC 2014JJ00)))));Homohuwelijken in 2014
+956;(VALUE (37772ned (MSR A028293_1 (WHERE (DIM TC 2014JJ00)))));Hoeveel huwelijken tussen mannen 2014
+956;(VALUE (37772ned (MSR A028293_1 (WHERE (DIM TC 2014JJ00)))));aantal mannen trouwen met mannen in 2014
+957;(VALUE (37772ned (MSR 1050_6 (WHERE (DIM TC 1970JJ00)))));Leeftijd huwelijk weduwe 1970
+957;(VALUE (37772ned (MSR 1050_6 (WHERE (DIM TC 1970JJ00)))));leeftijd van verweduwde vrouwen huwende in 1970
+957;(VALUE (37772ned (MSR 1050_6 (WHERE (DIM TC 1970JJ00)))));gemiddelde leeftijd weduwes bij huwelijk 1970
+958;(VALUE (37772ned (MSR 1010_1 (WHERE (DIM TC 2019JJ00)))));ongehuwde mannen getrouwd in 2019
+958;(VALUE (37772ned (MSR 1010_1 (WHERE (DIM TC 2019JJ00)))));aantal niet eerder getrouwde mannen die huwen in 2019
+958;(VALUE (37772ned (MSR 1010_1 (WHERE (DIM TC 2019JJ00)))));
+959;(VALUE (37772ned (MSR D004999_2 (WHERE (DIM TC 1978JJ00)))));vrouwen 1 huwelijk 1978
+959;(VALUE (37772ned (MSR D004999_2 (WHERE (DIM TC 1978JJ00)))));aantal vrouwen 1x getrouwd in 1978
+960;(VALUE (37772ned (MSR 1050_3 (WHERE (DIM TC 1984JJ00)))));aantal verweduwde mannen die trouwden in 1984
+960;(VALUE (37772ned (MSR 1050_3 (WHERE (DIM TC 1984JJ00)))));hoeveel weduwnaren huwelijk 1984
+961;(VALUE (37772ned (MSR 1080_4 (WHERE (DIM TC 2006JJ00)))));aantal gescheiden vrouwen huwen 2006
+961;(VALUE (37772ned (MSR 1080_4 (WHERE (DIM TC 2006JJ00)))));huwelijken gescheiden vrouwen in 2006
+962;(VALUE (37772ned (MSR D003634_1 (WHERE (DIM TC 2020JJ00)))));mannen met minimaal 2 huwelijken 2020
+962;(VALUE (37772ned (MSR D003634_1 (WHERE (DIM TC 2020JJ00)))));twee of meer huwelijken man 2020
+963;(VALUE (37772ned (MSR A028293_3 (WHERE (DIM TC 2010JJ00)))));aantal homo partnerschappen in 2010
+963;(VALUE (37772ned (MSR A028293_3 (WHERE (DIM TC 2010JJ00)))));partnerschapregistratie tussen mannen 2010
+964;(VALUE (37772ned (MSR 1040_5 (WHERE (DIM TC 2010JJ00)))));leeftijd mannen partnerschap 2010
+964;(VALUE (37772ned (MSR 1040_5 (WHERE (DIM TC 2010JJ00)))));gemiddelde leeftijd van man bij partnerschap 2010
+965;(VALUE (37772ned (MSR 1010_1 (WHERE (DIM TC 1973JJ00)))));huwelijken ongehuwde man 1973
+965;(VALUE (37772ned (MSR 1010_1 (WHERE (DIM TC 1973JJ00)))));hoeveel huwelijken met ongetrouwde mannen waren er in 1973
+966;(VALUE (37772ned (MSR D004999_1 (WHERE (DIM TC 2020JJ00)))));mannen die 1 keer getrouwd zijn 2020
+967;(VALUE (37772ned (MSR A028293_2 (WHERE (DIM TC 2017JJ00)))));totaal partnerschappen tussen mannen 2017
+968;(VALUE (37772ned (MSR 1080_5 (WHERE (DIM TC 2008JJ00)))));leeftijd van gescheiden mannen bij huwelijk 2008
+969;(VALUE (37772ned (MSR D003520_1 (WHERE (DIM TC 1989JJ00)))));mannen aantal huwelijken per persoon 1989
+969;(VALUE (37772ned (MSR D003520_1 (WHERE (DIM TC 1989JJ00)))));gemiddeld aantal huwelijken mannen 1989
+970;(VALUE (37772ned (MSR 4000_6 (WHERE (DIM TC 2010JJ00)))));gemiddelde leeftijd vrouw bij huwelijk 2010
+971;(VALUE (37772ned (MSR D003520_1 (WHERE (DIM TC 2006JJ00)))));aantal gehuwde mannen in 2006
+971;(VALUE (37772ned (MSR D003520_1 (WHERE (DIM TC 2006JJ00)))));aantal huwelijken man 2006
+972;(VALUE (37772ned (MSR 1010_6 (WHERE (DIM TC 2003JJ00)))));leeftijd ongehuwde vrouwen die trouwden in 2003
+973;(VALUE (37772ned (MSR T001221_1 (WHERE (DIM TC 1985JJ00)))));aantal huwelijken in 1985
+973;(VALUE (37772ned (MSR T001221_1 (WHERE (DIM TC 1985JJ00)))));hoeveel huwelijksluitingen waren er in 1985
+974;(VALUE (37772ned (MSR 4000_4 (WHERE (DIM TC 2019JJ00)))));hoeveel vrouwen trouwden er relatief gezien in 2019
+975;(VALUE (37772ned (MSR 1050_6 (WHERE (DIM TC 1958JJ00)))));leeftijd weduwes bij huwelijk in 1958
+975;(VALUE (37772ned (MSR 1050_6 (WHERE (DIM TC 1958JJ00)))));gemiddelde leeftijd van verweduwde vrouwen bij huwelijk in 1958
+976;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2010JJ00)))));aantal meisjes geboren in 2010
+976;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2010JJ00)))));meisjes 2010
+976;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 2010JJ00)))));hoeveel geboortes meisje in 2010
+977;(VALUE (37201 (MSR M004931 (WHERE (DIM GC CR18) (DIM TC 1988JJ00)))));vruchtbaarheidscijfer van Kop van Noord-Holland in 1988
+977;(VALUE (37201 (MSR M004931 (WHERE (DIM GC CR18) (DIM TC 1988JJ00)))));Kop van Noord Holland vruchtbaarheidscijfer 1988
+978;(VALUE (37201 (MSR 1020 (WHERE (DIM GC CR16) (DIM TC 1998JJ00)))));geboortes bij getrouwde vrouwen in Zuidwest-Gelderland in 1998
+979;(VALUE (37201 (MSR M004931 (WHERE (DIM TC 1997JJ00) (DIM GC GM0613)))));vruchtbaarheidscijfer van Albrandswaard 1997
+979;(VALUE (37201 (MSR M004931 (WHERE (DIM TC 1997JJ00) (DIM GC GM0613)))));gestandaardiseerd vruchtbaarheidscijfer 1997 Albrandswaard
+980;(VALUE (37201 (MSR D000128_8 (WHERE (DIM TC 2007JJ00) (DIM GC GM0363)))));kinderen geboren in Amsterdam 2007
+980;(VALUE (37201 (MSR D000128_8 (WHERE (DIM TC 2007JJ00) (DIM GC GM0363)))));hoeveel geboortes waren er in Amsterdam in 2007
+981;(VALUE (37201 (MSR M000174 (WHERE (DIM TC 1989JJ00) (DIM GC GM0200)))));gemiddeld aantal kinderen Apeldoorn 1989
+982;(VALUE (37201 (MSR 70700 (WHERE (DIM TC 2001JJ00)))));kinderen bij 34-jarigen in 2001
+982;(VALUE (37201 (MSR 70700 (WHERE (DIM TC 2001JJ00)))));hoeveel kinderen kregen moeders van 30 tot 35 jaar in 2001
+983;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 1997JJ00) (DIM GC GM0491)))));aantal meisjes geboren in Bergambacht 1997
+983;(VALUE (37201 (MSR 4000 (WHERE (DIM TC 1997JJ00) (DIM GC GM0491)))));hoeveel geboortes meisjes in 1997 in Bergambacht
+984;(VALUE (37201 (MSR A019378 (WHERE (DIM GC GM0203)))));aantal 1e kind geboortes in Barneveld
+984;(VALUE (37201 (MSR A019378 (WHERE (DIM GC GM0203)))));hoeveel eerste kinderen geboren in Barneveld
+985;(VALUE (37201 (MSR A019380 (WHERE (DIM TC 2021JJ00) (DIM GC GM0362)))));geboortes 3e kind in Amstelveen 2021
+986;(VALUE (37201 (MSR M000174 (WHERE (DIM TC 2009JJ00) (DIM GC CR35)))));aantal kinderen per vrouw in Noodoost Noord Brabant in 2009
+987;(VALUE (37201 (MSR M004452 (WHERE (DIM TC 1994JJ00) (DIM GC GM0885)))));vruchtbaarheidscijfer Arcen en Velden 1994
+988;(VALUE (37201 (MSR M004452 (WHERE (DIM GC PV26)))));vruchtbaarheidscijfer provincie Utrecht
+988;(VALUE (37201 (MSR M004452 (WHERE (DIM GC PV26)))));vruchtbaarheidscijfer in Utrecht
+989;(VALUE (37201 (MSR M004931 (WHERE (DIM GC LD01) (DIM TC 2009JJ00)))));vruchtbaarsheidscijfer in noord Nederland 2009
+990;(VALUE (37201 (MSR 3000 (WHERE (DIM GC GM0003)))));aantal jongens geboren in Appingendam
+990;(VALUE (37201 (MSR 3000 (WHERE (DIM GC GM0003)))));hoeveel geboortes jongetjes Appingedam
+991;(VALUE (37201 (MSR M004931 (WHERE (DIM GC GM0360)))));gestandaardiseerd vruchtbaarheidscijfer in Akersloot
+992;(VALUE (37201 (MSR A019380 (WHERE (DIM GC GM0360)))));geboortes derde kind in Akersloot
+993;(VALUE (37201 (MSR 41400 (WHERE (DIM GC GM0197)))));tienermoeders Aalten
+993;(VALUE (37201 (MSR 41400 (WHERE (DIM GC GM0197)))));geboortes moeder onder de 20
+994;(VALUE (37201 (MSR 70700 (WHERE (DIM TC 2008JJ00) (DIM GC CR02)))));kinderen bij 32-jarigen omgeving Delfzijl in 2008
+995;(VALUE (37201 (MSR D000128_4 (WHERE (DIM TC 2017JJ00)))));aantal geboortes in 2017
+995;(VALUE (37201 (MSR D000128_4 (WHERE (DIM TC 2017JJ00)))));aantal geboren kinderen in 2017
+996;(VALUE (37296ned (MSR 70501_1 (WHERE (DIM TC 1952JJ00)))));aantal 20 plussers in 1952
+996;(VALUE (37296ned (MSR 70501_1 (WHERE (DIM TC 1952JJ00)))));hoeveel dertigers in nederland in 1952
+997;(VALUE (37296ned (MSR H007119_2 (WHERE (DIM TC 2019JJ00)))));migranten uit de Antillen 2019
+997;(VALUE (37296ned (MSR H007119_2 (WHERE (DIM TC 2019JJ00)))));migratie caribisch nederland 2019
+998;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 1958JJ00)))));grootte van gezinnen 1958
+999;(VALUE (37296ned (MSR 70501_2 (WHERE (DIM TC 2014JJ00)))));relatief aantal twintigers in 2014
+999;(VALUE (37296ned (MSR 70501_2 (WHERE (DIM TC 2014JJ00)))));28-jarigen relatief gezien in 2014
+1000;(VALUE (37296ned (MSR 2012605_3 (WHERE (DIM TC 2016JJ00)))));aantal migranten 2016
+1000;(VALUE (37296ned (MSR 2012605_3 (WHERE (DIM TC 2016JJ00)))));hoeveel migranten waren er in 2016
+1001;(VALUE (37296ned (MSR D000110_2 (WHERE (DIM TC 1963JJ00)))));demografische druk in 1963
+1002;(VALUE (37296ned (MSR 21700_2 (WHERE (DIM TC 1994JJ00)))));80 plussers in 1994 ten opzichte van gehele bevolking
+1003;(VALUE (37296ned (MSR M000167 (WHERE (DIM TC 1953JJ00)))));immigranten in 1953
+1003;(VALUE (37296ned (MSR M000167 (WHERE (DIM TC 1953JJ00)))));immigratie 1953
+1004;(VALUE (37296ned (MSR H008673_1 (WHERE (DIM TC 2012JJ00)))));marokkaanse bevolking in 2012
+1004;(VALUE (37296ned (MSR H008673_1 (WHERE (DIM TC 2012JJ00)))));aantal marokkanen 2012
+1005;(VALUE (37296ned (MSR 3000_1 (WHERE (DIM TC 1952JJ00)))));aantal mannen 1952
+1006;(VALUE (37296ned (MSR D000117 (WHERE (DIM TC 2002JJ00)))));groene druk in 2002
+1007;(VALUE (37296ned (MSR H007119_1 (WHERE (DIM TC 2012JJ00)))));antilianen gemigreerd 2012
+1008;(VALUE (37296ned (MSR D000110_2 (WHERE (DIM TC 1970JJ00)))));demografische druk 1970
+1009;(VALUE (37296ned (MSR 3000_1 (WHERE (DIM TC 2013JJ00)))));aantal mannen in 2013
+1009;(VALUE (37296ned (MSR 3000_1 (WHERE (DIM TC 2013JJ00)))));mannelijke bevolking 2013
+1010;(VALUE (37296ned (MSR A008188_2 (WHERE (DIM TC 2000JJ00)))));bevolking met overig westerse migratieachtergrond 2000
+1011;(VALUE (37296ned (MSR 10000_2 (WHERE (DIM TC 1972JJ00)))));totale bevolking in 1972
+1011;(VALUE (37296ned (MSR 10000_2 (WHERE (DIM TC 1972JJ00)))));wat was de totale bevolking van nederland in 1972
+1012;(VALUE (37296ned (MSR M000244_1 (WHERE (DIM TC 2006JJ00)))));migratiesaldo 2006
+1012;(VALUE (37296ned (MSR M000244_1 (WHERE (DIM TC 2006JJ00)))));migratie saldo 2006
+1012;(VALUE (37296ned (MSR M000244_1 (WHERE (DIM TC 2006JJ00)))));wat was het migratiesaldo in 2006
+1013;(VALUE (37296ned (MSR M000100 (WHERE (DIM TC 1960JJ00)))));bevolkingsdichtheid in 1960
+1013;(VALUE (37296ned (MSR M000100 (WHERE (DIM TC 1960JJ00)))));wat was de bevolkingsdichtheid in 1960
+1014;(VALUE (37296ned (MSR 4000_2 (WHERE (DIM TC 1982JJ00)))));gemiddelde leeftijd van vrouwen in 1982
+1015;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 1985JJ00)))));hoe groot waren gezinnen in 1985
+1015;(VALUE (37296ned (MSR M000114 (WHERE (DIM TC 1985JJ00)))));gezinsgrootte 1985
+1016;(VALUE (37422ned (MSR T001111_2 (WHERE (DIM TC 1982JJ00)))));leeftijd van moeder bij geboortes 1982
+1017;(VALUE (37422ned (MSR M004462 (WHERE (DIM TC 2012JJ00)))));vervangingsfactor bevolking in 2012
+1018;(VALUE (37422ned (MSR M004462 (WHERE (DIM TC 1972JJ00)))));vervangingsfactor van 1972
+1019;(VALUE (37422ned (MSR A025237 (WHERE (DIM TC 1971JJ00)))));geboren eenlingen 1971
+1020;(VALUE (37422ned (MSR A019378_2 (WHERE (DIM TC 1977JJ00)))));wat was de gemiddelde leeftijd van een moeder bij het eerste kind in 1977
+1021;(VALUE (37422ned (MSR A019381_2 (WHERE (DIM TC 2003JJ00)))));leeftijd van moeder bij geboorte van 5e kind 2003
+1022;(VALUE (37422ned (MSR 21100 (WHERE (DIM TC 2020JJ00)))));moeders van 50 plus in 2020
+1023;(VALUE (37422ned (MSR A019380_2 (WHERE (DIM TC 2018JJ00)))));leeftijd van de moeder bij geboorte van het derde kind in 2018
+1024;(VALUE (37422ned (MSR D003494 (WHERE (DIM TC 1950JJ00)))));gemiddeld aantal eerste kind per vrouw in 1950
+1025;(VALUE (37422ned (MSR A019380_2 (WHERE (DIM TC 1994JJ00)))));leeftijd van moeder bij geboorte van het 3e kind in 1994
+1026;(VALUE (37422ned (MSR T001111_2 (WHERE (DIM TC 1990JJ00)))));gemiddelde leeftijd moeder bij geboorte kind 1990
+1029;(VALUE (37422ned (MSR M003499_2 (WHERE (DIM TC 2000JJ00)))));aantal kinderen per man in 2000
+1030;(VALUE (37422ned (MSR D003483 (WHERE (DIM TC 1975JJ00)))));jongens tweelingen geboren in 1975
+1031;(VALUE (37422ned (MSR 41400 (WHERE (DIM TC 2012JJ00)))));geboortes bij tienermoeders 2012
+1031;(VALUE (37422ned (MSR 41400 (WHERE (DIM TC 2012JJ00)))));hoeveel geboortes bij moeders onder de 20 in 2012
+1032;(VALUE (37422ned (MSR 1010 (WHERE (DIM TC 1974JJ00)))));ongehuwde moeders bij geboorte in 1974
+1033;(VALUE (37422ned (MSR A019381_1 (WHERE (DIM TC 1970JJ00)))));hoeveel geboortes waren het 4e kind of meer in 1970
+1034;(VALUE (37422ned (MSR M004456 (WHERE (DIM TC 2014JJ00)))));gemiddelde leeftijd van de vader bij geboorte van kind in 2014
+1036;(VALUE (37789ksz (MSR D000286 (WHERE (DIM TC 2006MM06)))));aantal wajong uitkeringen in juni 2006
+1037;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2007MM04)))));aantal bijstandsuitkeringen bij gepensioneerden in april 2007
+1037;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2007MM04)))));bijstandsuitkeringen boven AOW leeftijd april 2007
+1038;(VALUE (37789ksz (MSR D000192 (WHERE (DIM TC 2014MM08)))));hoeveel mensen hadden een anw uitkering in augustus 2014
+1039;(VALUE (37789ksz (MSR D000236 (WHERE (DIM TC 2012MM09)))));hoeveel iva uitkeringen zijn er verstrekt n september 2012
+1040;(VALUE (37789ksz (MSR D000292 (WHERE (DIM TC 2018MM02)))));hoeveelheid uitgegeven wga uitkeringen in februari van 2018
+1041;(VALUE (37789ksz (MSR D000192 (WHERE (DIM TC 2006MM11)))));aantal uitgegeven anw uitkeringen november 2006
+1042;(VALUE (37789ksz (MSR D000236 (WHERE (DIM TC 2016MM02)))));iva uitkeringen verkregen in februari 2016
+1043;(VALUE (37789ksz (MSR M006400 (WHERE (DIM TC 2004MM12)))));aantal gecorrigeerde werkloosheidsuitkeringen in december 2004
+1044;(VALUE (37789ksz (MSR D000233 (WHERE (DIM TC 2009MM03)))));aantal IOAW-uitkeringen van maart 2009
+1045;(VALUE (37789ksz (MSR D000198_2 (WHERE (DIM TC 2003MM02)))));aantal arbeidsongeschiktheidsuitkeringen in februari 2003
+1046;(VALUE (37789ksz (MSR D003284 (WHERE (DIM TC 2005MM01)))));aantal IOAZ-uitkeringen in januari 2005
+1047;(VALUE (37789ksz (MSR D000236 (WHERE (DIM TC 2019MM12)))));aantal IVA uitkeringen verstrekt in december 2019
+1048;(VALUE (37789ksz (MSR D000292 (WHERE (DIM TC 2015MM10)))));WGA uitkeringen uitgegeven in oktober van 2015
+1049;(VALUE (37789ksz (MSR D007076_2 (WHERE (DIM TC 2005MM09)))));ongecorrigeerde werkloosheidsuitkeringen in september 2005
+1050;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2021MM09)))));aantal bijstandsuitkeringen bij gepensioneerden in september 2021
+1050;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2021MM09)))));bijstandsuitkeringen boven AOW leeftijd september 2021
+1051;(VALUE (37789ksz (MSR D000292 (WHERE (DIM TC 2019MM01)))));hoeveel mensen hadden een wga uitkering in januari 2019
+1052;(VALUE (37789ksz (MSR M006400 (WHERE (DIM TC 2002MM11)))));seizoensgecorrigeerde aantal werkloosheid uitkeringen november 2002
+1053;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2015MM02)))));aantal bijstandsuitkeringen bij gepensioneerden in februari 2015
+1053;(VALUE (37789ksz (MSR 90200 (WHERE (DIM TC 2015MM02)))));bijstandsuitkeringen boven AOW leeftijd februari 2015
+1054;(VALUE (37789ksz (MSR D000198_2 (WHERE (DIM TC 2002JJ00)))));aantal arbeidsongeschiktheidsuitkeringen in 2002
+1055;(VALUE (37789ksz (MSR D000233 (WHERE (DIM TC 2021MM07)))));aantal ioaw uitkeringen in juli 2021
+1056;(VALUE (37979ned (MSR M000181_1 (WHERE (DIM TC 1992JJ00) (DIM Geslacht 4000)))));aantal gestorven meisjes baby's in 1992
+1057;(VALUE (37979ned (MSR D005089_2 (WHERE (DIM TC 2017JJ00) (DIM Geslacht 3000)))));sterfte ongeboren mannen 2017
+1069;(VALUE (37979ned (MSR M000134_1 (WHERE (DIM Geslacht T001038)))));totaal aantal overledenen
+1155;(VALUE (81358ned (MSR M002401 (WHERE (DIM LandVanUiteindelijkeZeggenschapUCI L007935)))));THE END
+1595;(VALUE (84114NED (MSR M006496_1 (WHERE (DIM TC 2020JJ00)))));Hoeveel verdiende de overheid in 2020?
+1595;(VALUE (84114NED (MSR M006496_1 (WHERE (DIM TC 2020JJ00)))));Overheidsinkomsten 2020
+1595;(VALUE (84114NED (MSR M006496_1 (WHERE (DIM TC 2020JJ00)))));Wat waren de inkomsten van de overheid in 2020? Inkomen van de overheid 2020
+1596;(VALUE (84297NED (MSR M006732 (WHERE (DIM TC 2000JJ00)))));Productie gewassen in 2000
+1597;(VALUE (84297NED (MSR M003300 (WHERE (DIM TC 2016JJ00) (DIM Landen L008691)))));Opbrengst loonwerk agrarische sector in 2016
+1597;(VALUE (84297NED (MSR M003300 (WHERE (DIM TC 2016JJ00) (DIM Landen L008691)))));verdiensten loonwerk landbouw 2016
+1597;(VALUE (84297NED (MSR M003300 (WHERE (DIM TC 2016JJ00) (DIM Landen L008691)))));verkoop melkveequota 2016
+1598;(VALUE (84297NED (MSR A044451 (WHERE (DIM Landen L008671) (DIM TC 2021JJ00)))));Landbouwsubsidies Malta 2021
+1599;(VALUE (84297NED (MSR M006748 (WHERE (DIM Landen L008657) (DIM TC 2007JJ00)))));Hoe groot was de veeteelt in Letland in 2007?
+1600;(VALUE (84297NED (MSR M000245 (WHERE (DIM TC 2007JJ00) (DIM Landen L008654)))));Verschil inkomen landbouw in Kroatië tussen 2006 en 2007
+1601;(VALUE (84297NED (MSR M003281 (WHERE (DIM Landen L008629)))));Inkomensindex landbouw Ierland
+1602;(VALUE (84297NED (MSR M006732 (WHERE (DIM Landen L008615)))));Verkoop planten Griekenland
+1602;(VALUE (84297NED (MSR M006732 (WHERE (DIM Landen L008615)))));productie groententeelt Griekenland
+1602;(VALUE (84297NED (MSR M006732 (WHERE (DIM Landen L008615)))));Hoeveelheid groententeeld griekenland
+1603;(VALUE (84297NED (MSR M006748 (WHERE (DIM TC 2020JJ00)))));Veeteelt in 2020
+1603;(VALUE (84297NED (MSR M006748 (WHERE (DIM TC 2020JJ00)))));Productie vee 2020
+1603;(VALUE (84297NED (MSR M006748 (WHERE (DIM TC 2020JJ00)))));Omzet vee 2020
+1603;(VALUE (84297NED (MSR M006748 (WHERE (DIM TC 2020JJ00)))));Productie 2020 handel in dieren
+1604;(VALUE (84297NED (MSR M000245 (WHERE (DIM Landen L008588) (DIM TC 2017JJ00)))));Hoe groot was het verschil in landbouwinkomen in Denemarken ten opzichte van het jaar daarvoor in 2017?
+1611;(VALUE (84297NED (MSR M006748 (WHERE (DIM TC 1995JJ00)))));Wat wat de output van veeteelt in 1995
+1611;(VALUE (84297NED (MSR M006748 (WHERE (DIM TC 1995JJ00)))));Totaal opbrengst vee 1995
+1612;(VALUE (84297NED (MSR D004082 (WHERE (DIM Landen L008629)))));Zuivelproducten Ierland
+1612;(VALUE (84297NED (MSR D004082 (WHERE (DIM Landen L008629)))));productie zuivel Ierland
+1612;(VALUE (84297NED (MSR D004082 (WHERE (DIM Landen L008629)))));omzet dierlijke producten Ierland
+1613;(VALUE (84297NED (MSR M006732 (WHERE (DIM Landen L008605) (DIM TC 2017JJ00)))));Omzet planten Frankrijk 2017
+1613;(VALUE (84297NED (MSR M006732 (WHERE (DIM Landen L008605) (DIM TC 2017JJ00)))));Hoeveel leverden gewassen op voor Frankrijk in 2017?
+1614;(VALUE (84297NED (MSR M002480 (WHERE (DIM Landen L008749)))));Hoeveel mensen werken er in de landbouw in Spanje?
+1615;(VALUE (84297NED (MSR A044447 (WHERE (DIM TC 2000JJ00)))));Landbouwbelasting in 2000
+1713;(VALUE (84847NED (MSR M003447_1 (WHERE (DIM GC PV30)))));Aantal gestarte diensten huishoudelijk geweld Noord Brabant
+1714;(VALUE (84847NED (MSR M004357_2 (WHERE (DIM GC GM0668) (DIM TC 2019HJ02)))));Hoeveel gestarte casussen van huishoudelijk geweld waren er in Maas en Waal in het tweede half jaar van 2019?
+1715;(VALUE (84847NED (MSR M004358_2 (WHERE (DIM GC GM1731) (DIM TC 2021JJ00)))));Hoeveel casussen van huiselijk geweld waren er in midden drenthe in 2021?
+1716;(VALUE (84871NED (MSR 80000_2 (WHERE (DIM PrognoseInterval MBG0095) (DIM TC 2026JJ00)))));Wat is de bevolkingsprognose bovengrens van jongeren in 2026?
+1717;(VALUE (84871NED (MSR 80100_1 (WHERE (DIM TC 2028JJ00) (DIM PrognoseInterval MBG0095)))));Prognose volwassenen in 2028 bovengrens
+1718;(VALUE (84871NED (MSR 80200_2 (WHERE (DIM PrognoseInterval MOG0095)))));Verwachting bovengrens bevolking ouderen
+1719;(VALUE (84871NED (MSR 80000_1 (WHERE (DIM TC 2028JJ00)))));Verwachting jongeren 2028
+1719;(VALUE (84871NED (MSR 80000_1 (WHERE (DIM TC 2028JJ00)))));prognose aantal jongeren in 2028
+1719;(VALUE (84871NED (MSR 80000_1 (WHERE (DIM TC 2028JJ00)))));Verwachting aantal kinderen in 2028
+1720;(VALUE (84871NED (MSR 80200_2 (WHERE (DIM TC 2039JJ00) (DIM PrognoseInterval MW00000)))));Hoeveel bejaarden zijn er in 2039
+1720;(VALUE (84871NED (MSR 80200_2 (WHERE (DIM TC 2039JJ00) (DIM PrognoseInterval MW00000)))));? Hoeveel ouderen leven er in Nederland in 2039?
+1721;(VALUE (84871NED (MSR 3000_1 (WHERE (DIM PrognoseInterval MOG0067)))));Wat is de levensverwachting van mannen ondergrens
+1722;(VALUE (84871NED (MSR T001038_1 (WHERE (DIM PrognoseInterval MOG0067)))));Wat is de ondergrens levensverwachting
+1722;(VALUE (84871NED (MSR T001038_1 (WHERE (DIM PrognoseInterval MOG0067)))));verwachte levensverwachting ondergrens
+1722;(VALUE (84871NED (MSR T001038_1 (WHERE (DIM PrognoseInterval MOG0067)))));Ondergrens prognose levensverwachting
+1723;(VALUE (84871NED (MSR 80200_2 (WHERE (DIM TC 2028JJ00) (DIM PrognoseInterval MBG0067)))));Hoeveel 65-plussers zijn er in 2028 op de bovengrens? Bovengrens prognose aantal ouderen in 2028
+1724;(VALUE (84871NED (MSR M000168 (WHERE (DIM TC 2069JJ00)))));Verwachte emigratie in 2069
+1724;(VALUE (84871NED (MSR M000168 (WHERE (DIM TC 2069JJ00)))));Aantal emigranten in 2069
+1725;(VALUE (84871NED (MSR M000167 (WHERE (DIM TC 2033JJ00) (DIM PrognoseInterval MBG0067)))));bovengrens aantal immigranten 2033
+1726;(VALUE (84871NED (MSR 80200_1 (WHERE (DIM TC 2023JJ00)))));Verwachte aantal ouderen 2023
+1726;(VALUE (84871NED (MSR 80200_1 (WHERE (DIM TC 2023JJ00)))));hoeveelheid ouderen 2023
+1726;(VALUE (84871NED (MSR 80200_1 (WHERE (DIM TC 2023JJ00)))));Hoeveel 65-plussers zijn er in 2023?
+1727;(VALUE (84871NED (MSR 80100_2 (WHERE (DIM PrognoseInterval MOG0067) (DIM TC 2030JJ00)))));Wat is de prognose-ondergrens van het aantal volwassenen in 2030?
+1728;(VALUE (84871NED (MSR D000110_2 (WHERE (DIM PrognoseInterval MBG0095)))));Verwachte demografische druk bovengrens
+1729;(VALUE (84871NED (MSR 80100_1 (WHERE (DIM TC 2040JJ00)))));Hoeveel volwassenen zijn er in 2040?
+1729;(VALUE (84871NED (MSR 80100_1 (WHERE (DIM TC 2040JJ00)))));Prognose 20 tot 65 jarigen in 2040
+1730;(VALUE (84871NED (MSR 3000_2 (WHERE (DIM TC 2045JJ00) (DIM PrognoseInterval MW00000)))));Levensverwachting mannen in 2045
+1731;(VALUE (84871NED (MSR D000116 (WHERE (DIM PrognoseInterval MOG0067)))));Ondergrens grijze druk
+1732;(VALUE (84871NED (MSR M000244 (WHERE (DIM PrognoseInterval MOG0095) (DIM TC 2021JJ00)))));Ondergrens totale migratie
+1733;(VALUE (84871NED (MSR 80200_2 (WHERE (DIM TC 2070JJ00)))));Hoeveel bejaarden in 2070?
+1733;(VALUE (84871NED (MSR 80200_2 (WHERE (DIM TC 2070JJ00)))));Hoeveel mensen van vijfenzestig jaar en ouder leven er in 2070
+1734;(VALUE (84871NED (MSR 4000_1 (WHERE (DIM TC 2056JJ00) (DIM PrognoseInterval MBG0067)))));Wat is de levensverwachting bovengrens van vrouwen in 2056
+1735;(VALUE (84871NED (MSR M000167 (WHERE (DIM PrognoseInterval MW00000)))));Verwachting immigratie
+1735;(VALUE (84871NED (MSR M000167 (WHERE (DIM PrognoseInterval MW00000)))));verwachting migratie vanuit het buitenland
+1735;(VALUE (84871NED (MSR M000167 (WHERE (DIM PrognoseInterval MW00000)))));prognose aantal immigranten
+1735;(VALUE (84871NED (MSR M000167 (WHERE (DIM PrognoseInterval MW00000)))));hoeveel immigranten
+1736;(VALUE (84957NED (MSR M004369 (WHERE (DIM Vervoerstromen A045747) (DIM TC 2012JJ00)))));Hoeveel pijpleidingen zijn er vervoerd in het binnenland in 2012?
+1737;(VALUE (84957NED (MSR M004367 (WHERE (DIM Vervoerstromen A045749)))));Uitvoer ladingtonkilometer van leidingen
+1742;(VALUE (84957NED (MSR M004367 (WHERE (DIM TC 2014JJ00) (DIM Vervoerstromen T001448)))));Hoeveel ladingtonkilometer is het vervoerd in 2014?
+1743;(VALUE (84957NED (MSR M004369 (WHERE (DIM Vervoerstromen T001448)))));Hoeveel ton leidingen is er vervoerd?
+1744;(VALUE (84957NED (MSR M004369 (WHERE (DIM TC 2013JJ00) (DIM Vervoerstromen A045749)))));Hoeveel ton leidingen is er naar het buitenland vervoerd in 2013
+1746;(VALUE (84957NED (MSR M004367 (WHERE (DIM Vervoerstromen T001448)))));Ladingtonkilometer pijpleidingen
+1746;(VALUE (84957NED (MSR M004367 (WHERE (DIM Vervoerstromen T001448)))));Hoeveelheid pijpleidingen vervoerd in totaal
+1756;(VALUE (85082NED (MSR 1016440 (WHERE (DIM TC 2045JJ00)))));Hoeveel thuiswonende kinderen zijn er in 2045?
+1757;(VALUE (85082NED (MSR 1015115 (WHERE (DIM TC 2066JJ00)))));Hoeveel samenwonende zijn er in 2066?
+1758;(VALUE (85082NED (MSR 1050015_2 (WHERE (DIM TC 2040JJ00)))));Wat is de hoeveelheid eenpersoonshuishoudens in 2040
+1758;(VALUE (85082NED (MSR 1050015_2 (WHERE (DIM TC 2040JJ00)))));huishoudens van een persoon 2040
+1759;(VALUE (85082NED (MSR 1011550 (WHERE (DIM TC 2028JJ00)))));Hoeveel vierpersoons huishoudens 2028
+1759;(VALUE (85082NED (MSR 1011550 (WHERE (DIM TC 2028JJ00)))));Totaal huishoudens met vier personen 2028
+1760;(VALUE (85082NED (MSR A048069 (WHERE (DIM TC 2060JJ00)))));Hoeveel huishoudens zijn er in 2060 waarvan het jongste kind tussen de 3 en zes jaar is?
+1761;(VALUE (85082NED (MSR 1050190_3 (WHERE (DIM TC 2043JJ00)))));Hoeveel huishoudens met maar een ouder zijn er in 2043? Hoeveel huishoudens met een enkele voogd in 2043
+1762;(VALUE (85082NED (MSR 1017850 (WHERE (DIM TC 2067JJ00)))));prognose huishoudens met 1 kind 2067
+1762;(VALUE (85082NED (MSR 1017850 (WHERE (DIM TC 2067JJ00)))));houshoudens met een kind in 2067
+1763;(VALUE (85082NED (MSR 1050215 (WHERE (DIM TC 2065JJ00)))));Verwachting aantal grote huishoudens in 2065
+1765;(VALUE (85082NED (MSR 1050010_4 (WHERE (DIM TC 2069JJ00)))));Totaal huishoudens in 2069
+1765;(VALUE (85082NED (MSR 1050010_4 (WHERE (DIM TC 2069JJ00)))));Wat is het totaal aantal verwachte huishoudens in 2069
+1766;(VALUE (85082NED (MSR 1015110 (WHERE (DIM TC 2024JJ00)))));Hoeveel ouders wonen alleen in 2024?
+1769;(VALUE (85082NED (MSR 1050190_3 (WHERE (DIM TC 2036JJ00)))));Wat is de prognose van het aantal huishoudens met één ouder in in 2036
+1770;(VALUE (85082NED (MSR 1050215 (WHERE (DIM TC 2032JJ00)))));Hoeveel huisouders met een ouder en drie of meer kinderen in 2032
+1772;(VALUE (85082NED (MSR 1015115 (WHERE (DIM TC 2022JJ00)))));Prognose samenwonenden in 2022
+1773;(VALUE (85082NED (MSR 1011450 (WHERE (DIM TC 2022JJ00)))));Hoeveel tweepersoonshuishoudens zijn er verwacht in 2022?
+1774;(VALUE (85082NED (MSR 1017850 (WHERE (DIM TC 2035JJ00)))));Wat is de hoeveelheid huishounds met 1 kind?
+1775;(VALUE (85082NED (MSR 1015110 (WHERE (DIM TC 2063JJ00)))));Prognose aantal ouderen in huishoudens 2063
+1781;(VALUE (85089NED (MSR 80100_1 (WHERE (DIM PrognoseInterval MOG0067) (DIM TC 2064JJ00)))));Aantal volwassenen in 2033 verwachting bovengrens
+1782;(VALUE (85089NED (MSR T001038_1 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2033JJ00)))));Levensverwachting 2023
+1782;(VALUE (85089NED (MSR T001038_1 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2033JJ00)))));levensverwachting bij geboorte in 2023
+1783;(VALUE (85089NED (MSR D000117 (WHERE (DIM PrognoseInterval MOG0067)))));Ondergrens groene druk
+1784;(VALUE (85089NED (MSR 4000_1 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2037JJ00)))));Levensverwachting bij geboorte bovengrens vrouwen in 2037
+1784;(VALUE (85089NED (MSR 4000_1 (WHERE (DIM PrognoseInterval MBG0067) (DIM TC 2037JJ00)))));Vrouwen levensverwachting 2037 bovengrens
+1786;(VALUE (85089NED (MSR T001038_2 (WHERE (DIM TC 2063JJ00)))));Levensverwachting bejaarden 2063
+1786;(VALUE (85089NED (MSR T001038_2 (WHERE (DIM TC 2063JJ00)))));Levensverwachting 2063 65-plussers
+1787;(VALUE (85089NED (MSR D000110_2 (WHERE (DIM PrognoseInterval MOG0095)))));Demografische druk ondergrens
+1787;(VALUE (85089NED (MSR D000110_2 (WHERE (DIM PrognoseInterval MOG0095)))));verhouding druk prognose ondergrens
+1788;(VALUE (85089NED (MSR 3000_1 (WHERE (DIM PrognoseInterval MBG0095) (DIM TC 2039JJ00)))));Levensverwachting mannen in 2039
+1788;(VALUE (85089NED (MSR 3000_1 (WHERE (DIM PrognoseInterval MBG0095) (DIM TC 2039JJ00)))));Levensverwachting heren 2039
+1788;(VALUE (85089NED (MSR 3000_1 (WHERE (DIM PrognoseInterval MBG0095) (DIM TC 2039JJ00)))));wat is de levensverwachting van mannen in 2039?
+1789;(VALUE (85089NED (MSR M000134 (WHERE (DIM TC 2021JJ00)))));Overledenen 2021
+1789;(VALUE (85089NED (MSR M000134 (WHERE (DIM TC 2021JJ00)))));aantal doden 2021
+1789;(VALUE (85089NED (MSR M000134 (WHERE (DIM TC 2021JJ00)))));sterfgevallen 2021
+1789;(VALUE (85089NED (MSR M000134 (WHERE (DIM TC 2021JJ00)))));prognose sterfte 2021
+1790;(VALUE (85089NED (MSR D000128 (WHERE (DIM PrognoseInterval MOG0067)))));Aantal levend geboren kinderen
+1790;(VALUE (85089NED (MSR D000128 (WHERE (DIM PrognoseInterval MOG0067)))));verwachting aantal geboren kinderen
+1791;(VALUE (85089NED (MSR D000116 (WHERE (DIM TC 2057JJ00)))));Verhouding ouderen 2057
+1791;(VALUE (85089NED (MSR D000116 (WHERE (DIM TC 2057JJ00)))));grijze druk 2057
+1792;(VALUE (85089NED (MSR D000116 (WHERE (DIM TC 2028JJ00)))));Grijze druk 2028
+1792;(VALUE (85089NED (MSR D000116 (WHERE (DIM TC 2028JJ00)))));verhouding ouderen ten opzichte van jongeren in 2028
+1793;(VALUE (85089NED (MSR D000128 (WHERE (DIM TC 2065JJ00) (DIM PrognoseInterval MBG0095)))));Bovengrens levend geboren kinderen 2065
+1794;(VALUE (85089NED (MSR D000117 (WHERE (DIM TC 2051JJ00)))));Groene druk 2051
+1794;(VALUE (85089NED (MSR D000117 (WHERE (DIM TC 2051JJ00)))));Prognose verhouding jongeren ouderen 2051
+1795;(VALUE (85089NED (MSR 80100_1 (WHERE (DIM PrognoseInterval MOG0095)))));Verwachting bevolking volwassenen ondergrens
+1796;(VALUE (85224NED (MSR 3001070 (WHERE (DIM TC 2017JJ00)))));Aantal werkzoekende 2017
+1796;(VALUE (85224NED (MSR 3001070 (WHERE (DIM TC 2017JJ00)))));arbeidsongeschiktheid 2017
+1797;(VALUE (85224NED (MSR 2018700_1 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2018KW02)))));Aantal werkende laag onderwijs 2018 tweede kwart
+1798;(VALUE (85224NED (MSR M001796_2 (WHERE (DIM TC 2014JJ00) (DIM SeizoenEnWerkdagcorrectie A042501)))));Percentage werkenden 2014
+1798;(VALUE (85224NED (MSR M001796_2 (WHERE (DIM TC 2014JJ00) (DIM SeizoenEnWerkdagcorrectie A042501)))));Deel werkende mensen 2014
+1799;(VALUE (85224NED (MSR 3000790_2 (WHERE (DIM TC 2015KW02) (DIM SeizoenEnWerkdagcorrectie A050903)))));Totale beroepsbevolking tweede kwart 2015
+1799;(VALUE (85224NED (MSR 3000790_2 (WHERE (DIM TC 2015KW02) (DIM SeizoenEnWerkdagcorrectie A050903)))));totaal aantal werkenden tweede seizoen 2025
+1800;(VALUE (85224NED (MSR 3000810 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Niet werkenden
+1800;(VALUE (85224NED (MSR 3000810 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Werklozen
+1800;(VALUE (85224NED (MSR 3000810 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));onbenut arbeidspotentieel
+1801;(VALUE (85224NED (MSR 2018740_2 (WHERE (DIM TC 2020KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));Werkende HBO'ers eind 2020
+1801;(VALUE (85224NED (MSR 2018740_2 (WHERE (DIM TC 2020KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));werkende HBO'ers laatste kwartaal 2020
+1801;(VALUE (85224NED (MSR 2018740_2 (WHERE (DIM TC 2020KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));HBO werkenden winter 2020
+1801;(VALUE (85224NED (MSR 2018740_2 (WHERE (DIM TC 2020KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));HBO werkenden Q4 2020
+1802;(VALUE (85224NED (MSR 2018700_3 (WHERE (DIM TC 2015KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));Hoeveel lager opgeleiden werkten er eind 2015?
+1802;(VALUE (85224NED (MSR 2018700_3 (WHERE (DIM TC 2015KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));Aantal laag opgeleiden werkenden 4e kwart 2015
+1802;(VALUE (85224NED (MSR 2018700_3 (WHERE (DIM TC 2015KW04) (DIM SeizoenEnWerkdagcorrectie A042501)))));Laag opgeleide werkenden Q4 2015
+1803;(VALUE (85224NED (MSR 2021340 (WHERE (DIM TC 2018KW03) (DIM SeizoenEnWerkdagcorrectie A042501)))));Werknemers met een flexibel contract 3e kwartaal van 2018
+1803;(VALUE (85224NED (MSR 2021340 (WHERE (DIM TC 2018KW03) (DIM SeizoenEnWerkdagcorrectie A042501)))));Aantal flexcontracten derde 2018
+1803;(VALUE (85224NED (MSR 2021340 (WHERE (DIM TC 2018KW03) (DIM SeizoenEnWerkdagcorrectie A042501)))));Hoeveelheid flexibele werknemers eind 2018
+1804;(VALUE (85224NED (MSR 2021320_2 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903)))));Hoeveel werkenden?
+1804;(VALUE (85224NED (MSR 2021320_2 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903)))));Hoeveel personen werken er? Aantal arbeiders
+1805;(VALUE (85224NED (MSR 30000811 (WHERE (DIM TC 2019KW01) (DIM SeizoenEnWerkdagcorrectie A050903)))));Kortdurende werklozen lente 2019
+1806;(VALUE (85224NED (MSR 2018740_3 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Hoeveel werkende MBO'ers
+1806;(VALUE (85224NED (MSR 2018740_3 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Aandeel werkende middelbaar beroepsonderwijs
+1807;(VALUE (85224NED (MSR 2018740_2 (WHERE (DIM TC 2022KW04) (DIM SeizoenEnWerkdagcorrectie A050903)))));Aantal MBO eind 2022
+1807;(VALUE (85224NED (MSR 2018740_2 (WHERE (DIM TC 2022KW04) (DIM SeizoenEnWerkdagcorrectie A050903)))));Hoeveel middelbaar opgeleiden winter 2022
+1808;(VALUE (85224NED (MSR 2018790_1 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2017KW03)))));Hoeveel hoger opgeleiden in derde kwartaal van 2017?
+1808;(VALUE (85224NED (MSR 2018790_1 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2017KW03)))));HBO Q3 2017
+1809;(VALUE (85224NED (MSR 3000800_2 (WHERE (DIM TC 2014KW04) (DIM SeizoenEnWerkdagcorrectie A050903)))));Hoeveel werklozen in vierde kwartaal 2014?
+1810;(VALUE (85224NED (MSR 2018790_3 (WHERE (DIM TC 2013KW03) (DIM SeizoenEnWerkdagcorrectie A042501)))));Aandeel werkende HBO'ers 3e kwartaal 2013
+1810;(VALUE (85224NED (MSR 2018790_3 (WHERE (DIM TC 2013KW03) (DIM SeizoenEnWerkdagcorrectie A042501)))));Hoeveel mensen uit het hoger onderwijs werkten in het derde kwartaal van 2013?
+1811;(VALUE (85224NED (MSR 2021240 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Hoeveel werkende mensen?
+1811;(VALUE (85224NED (MSR 2021240 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Aantal werkende voltijd
+1811;(VALUE (85224NED (MSR 2021240 (WHERE (DIM SeizoenEnWerkdagcorrectie A042501)))));Voltijdsmedewerkers
+1812;(VALUE (85224NED (MSR 2021430 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903)))));Hoeveel ZZP'ers
+1813;(VALUE (85224NED (MSR 2021320_2 (WHERE (DIM SeizoenEnWerkdagcorrectie A050903) (DIM TC 2020KW03)))));Hoeveel werknemers waren er in het derde kwartaal van 2020?
+1814;(VALUE (85224NED (MSR M001906 (WHERE (DIM TC 2018KW01)))));Hoeveel mensen waren er werkloos begin 2018?
+1814;(VALUE (85224NED (MSR M001906 (WHERE (DIM TC 2018KW01)))));Aantal werklozen eerste kwart 2018
+1815;(VALUE (85224NED (MSR 2021240 (WHERE (DIM TC 2021KW02) (DIM SeizoenEnWerkdagcorrectie A042501)))));Hoeveel mensen werkten er voltijd in de tweede helft van 2021?
+1815;(VALUE (85224NED (MSR 2021240 (WHERE (DIM TC 2021KW02) (DIM SeizoenEnWerkdagcorrectie A042501)))));Voltijdsmedewerkers tweede helft 2021
